@@ -53,17 +53,3 @@ cd $CMD_PATH
 git add .
 git commit -a -m "CI-BOT:$(date +%Y.%m.%d-%H%M%S)-$GITHUB_REF_NAME-$GITHUB_RUN_NUMBER"
 git push origin HEAD
-
-
-
-
-# rm -rf versions 
-
-# cid=$(docker run -it --detach registry.cn-hangzhou.aliyuncs.com/archlinux365/9996-ubuntu-docker-runner:latest)
-# docker cp ${cid}:/home/runner/versions/ ./versions/
-
-# git config --global user.email "gnuhub@gmail.com"
-# git config --global user.name "gnuhub"
-# git add .
-# git commit -a -m "CI-BOT:$(date +%Y.%m.%d-%H%M%S)-$GITHUB_REF_NAME-$GITHUB_RUN_NUMBER"
-# git push origin HEAD
