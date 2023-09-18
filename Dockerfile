@@ -8,7 +8,7 @@ USER root
 WORKDIR /root
 ENV USER=root
 ENV HOME=/root
-RUN /tmp/files//docker.install.sh
+RUN /tmp/files/install.sh
 
 # 3
 RUN rm -rf /tmp/files/
