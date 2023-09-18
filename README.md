@@ -22,3 +22,7 @@
 
 ```
 
+## 4 support
+
+* submmit a issue
+* join the chat: https://matrix.to/#/#openos365:matrix.org
