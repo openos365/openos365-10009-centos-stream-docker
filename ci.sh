@@ -49,8 +49,9 @@ cid=$(docker run -it --detach ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GIT
 
 git pull origin HEAD
 rm -rf versions
+rm -rf yum.repos.d
 docker cp ${cid}:/root/versions/ ./versions/
-
+docker cp ${cid}:/etc/yum.repos.d/ ./yum.repos.d/
 cd $CMD_PATH
 git add .
 git commit -a -m "CI-BOT:$(date +%Y.%m.%d-%H%M%S)-$GITHUB_REF_NAME-$GITHUB_RUN_NUMBER"
