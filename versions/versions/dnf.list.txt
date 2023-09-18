@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:00:23 ago on Mon Sep 18 15:46:25 2023.
+Last metadata expiration check: 0:00:29 ago on Mon Sep 18 15:51:21 2023.
 Installed Packages
 acl.x86_64                                                        2.2.53-1.el8                                           @System      
 audit-libs.x86_64                                                 3.0.7-4.el8                                            @System      
