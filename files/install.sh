@@ -15,7 +15,7 @@ dnf --assumeyes install rsync
 
 rsync -avzP ./root/ /
 
-update_mirror.pl /etc/yum.repos.d/centos*.repo
+update_mirror.pl /etc/yum.repos.d/CentOS-Stream*.repo
 
 dnf clean all
 dnf makecache
