@@ -2,8 +2,7 @@
 
 ## 0 status
 
-[![ci](https://github.com/archlinux365/10001-centos-stream-docker-base/actions/workflows/ci.yml/badge.svg)](https://github.com/archlinux365/10001-centos-stream-docker-base/actions/workflows/ci.yml)
-
+[![ci](https://github.com/archlinux365/10001-centos-stream-docker-base/actions/workflows/ci.yml/badge.svg)](https://github.com/archlinux365/10001-centos-stream-docker-base/actions/workflows/ci.yml) [![Docker Pulls](https://img.shields.io/docker/pulls/gnuhub/10001-centos-stream-docker-base-main.svg)](https://hub.docker.com/r/gnuhub/10001-centos-stream-docker-base-main/)
 ## 1 what
 
 * centos stream docker base images
