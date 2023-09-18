@@ -1,5 +1,3 @@
-Installed Packages
-acl.x86_64                                    2.2.53-1.el8                         @System   
 audit-libs.x86_64                             3.0.7-4.el8                          @System   
 basesystem.noarch                             11-5.el8                             @System   
 bash.x86_64                                   4.4.20-4.el8_6                       @System   
