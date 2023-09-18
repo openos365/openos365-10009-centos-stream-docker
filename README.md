@@ -19,7 +19,8 @@
 ## 3 how to use
 
 ```
-
+docker pull docker pull gnuhub/10001-centos-stream-docker-base-main:latest
+docker run -it docker pull gnuhub/10001-centos-stream-docker-base-main:latest bash
 ```
 
 ## 4 support
