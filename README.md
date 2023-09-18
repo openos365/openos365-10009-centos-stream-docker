@@ -13,7 +13,7 @@
 
 * centos stream docker base images
 
-## 3 why
+## 3 why (values)
 
 1. change repo mirror
 1. pr-install some packages
