@@ -20,6 +20,8 @@
 * pre-config
 * networking problems
 * save some time
+* track repo update using versions
+* publish a tuna yum.repo.d
 
 ## 4 how to use
 
