@@ -22,6 +22,13 @@ dnf makecache
 
 dnf --assumeyes install epel-release dnf-plugins-core
 dnf --assumeyes upgrade epel-release
+
+sed -e 's!^metalink=!#metalink=!g' \
+    -e 's!^#baseurl=!baseurl=!g' \
+    -e 's!https\?://download\.fedoraproject\.org/pub/epel!https://mirrors.tuna.tsinghua.edu.cn/epel!g' \
+    -e 's!https\?://download\.example/pub/epel!https://mirrors.tuna.tsinghua.edu.cn/epel!g' \
+    -i /etc/yum.repos.d/epel*.repo
+
 crb enable
 
 dnf --assumeyes install kiwi 
