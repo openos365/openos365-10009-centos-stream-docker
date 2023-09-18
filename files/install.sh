@@ -33,3 +33,7 @@ cd versions
 dnf list installed > dnf.list.installed.txt
 dnf list > dnf.list.txt
 
+sed -i '1,2d' dnf.list.installed.txt
+sed -i '1d' dnf.list.txt
+
+
