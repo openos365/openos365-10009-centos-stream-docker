@@ -6,8 +6,8 @@
 
 ## 1 support
 
-* submmit a issue
-* join the chat: https://matrix.to/#/#openos365:matrix.org
+* submit a issue
+* chat with us: https://matrix.to/#/#openos365:matrix.org
 
 ## 2 what
 
