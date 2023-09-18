@@ -24,6 +24,6 @@
 ## 4 how to use
 
 ```
-docker docker pull gnuhub/10001-centos-stream-docker-base-main:latest
+docker pull gnuhub/10001-centos-stream-docker-base-main:latest
 docker run -it docker pull gnuhub/10001-centos-stream-docker-base-main:latest bash
 ```
