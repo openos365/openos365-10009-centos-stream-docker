@@ -27,3 +27,9 @@ crb enable
 dnf --assumeyes install kiwi 
 dnf --assumeyes install sudo
 
+cd ~
+mkdir versions
+cd versions
+dnf list installed > dnf.list.installed.txt
+dnf list > dnf.list.txt
+
