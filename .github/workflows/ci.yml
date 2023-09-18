@@ -1,4 +1,4 @@
-name: docker build
+name: ci
 
 on:
   push:
@@ -9,8 +9,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-docker:
-    name: Build Docker Image
+  build:
+    name: ci
     runs-on: ubuntu-latest
     steps:
       - name: Install SSH Key
@@ -44,5 +44,5 @@ jobs:
           registry: docker.io
           username: ${{ secrets.MY_HUB_USER }}
           password: ${{ secrets.MY_HUB_PASSWORD }}
-      - name: build docker
+      - name: run ci.sh
         run: ./ci.sh

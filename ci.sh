@@ -36,6 +36,7 @@ docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_N
 docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
 docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:latest
 
+git remote -v
 # cd ~/
 # git clone git@github.com:archlinux365/9996-ubuntu-docker.git
 
