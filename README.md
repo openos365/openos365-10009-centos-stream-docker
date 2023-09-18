@@ -25,5 +25,5 @@
 
 ```
 docker pull gnuhub/10001-centos-stream-docker-base-main:latest
-docker run -it docker pull gnuhub/10001-centos-stream-docker-base-main:latest bash
+docker run -it gnuhub/10001-centos-stream-docker-base-main:latest bash
 ```
