@@ -46,6 +46,8 @@ docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:latest
 cd $CMD_PATH
 
 cid=$(docker run -it --detach ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER)
+
+git pull origin HEAD
 rm -rf versions
 docker cp ${cid}:/root/versions/ ./versions/
 
