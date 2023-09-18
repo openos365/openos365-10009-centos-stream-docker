@@ -15,13 +15,13 @@
 
 ## 3 why
 
-* change repo mirror
-* pr-install some packages
-* pre-config
-* networking problems
-* save some time
-* track repo update using versions
-* publish a tuna yum.repo.d
+1. change repo mirror
+1. pr-install some packages
+1. pre-config
+1. networking problems
+1. save time
+1. track repo update using versions
+1. publish a tuna yum.repo.d
 
 ## 4 how to use
 
