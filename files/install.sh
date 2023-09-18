@@ -35,6 +35,9 @@ dnf --assumeyes install kiwi
 dnf --assumeyes install sudo
 
 cd ~
+if [ -d versions ];then
+    rm -rf versions
+fi
 mkdir versions
 cd versions
 dnf list installed > dnf.list.installed.txt
