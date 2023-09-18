@@ -10,6 +10,7 @@
 
 [extras]
 name=CentOS Stream $releasever - Extras
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/SIGs/$releasever-stream/extras/$basearch/extras-common
 mirrorlist=http://mirrorlist.centos.org/?release=$stream&arch=$basearch&repo=extras&infra=$infra
 #baseurl=http://mirror.centos.org/$contentdir/$stream/extras/$basearch/os/
 gpgcheck=1

@@ -10,6 +10,7 @@
 
 [appstream]
 name=CentOS Stream $releasever - AppStream
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/AppStream/$basearch/os
 mirrorlist=http://mirrorlist.centos.org/?release=$stream&arch=$basearch&repo=AppStream&infra=$infra
 #baseurl=http://mirror.centos.org/$contentdir/$stream/AppStream/$basearch/os/
 gpgcheck=1

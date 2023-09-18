@@ -10,6 +10,7 @@
 
 [rt]
 name=CentOS Stream $releasever - RealTime
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/RealTime/$basearch/os
 mirrorlist=http://mirrorlist.centos.org/?release=$stream&arch=$basearch&repo=RT&infra=$infra
 #baseurl=http://mirror.centos.org/$contentdir/$stream/RT/$basearch/os/
 gpgcheck=1

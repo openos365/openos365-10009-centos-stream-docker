@@ -10,7 +10,6 @@
 
 [resilientstorage]
 name=CentOS Stream $releasever - ResilientStorage
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/ResilientStorage/$basearch/os
 mirrorlist=http://mirrorlist.centos.org/?release=$stream&arch=$basearch&repo=ResilientStorage&infra=$infra
 #baseurl=http://mirror.centos.org/$contentdir/$stream/ResilientStorage/$basearch/os/
 gpgcheck=1

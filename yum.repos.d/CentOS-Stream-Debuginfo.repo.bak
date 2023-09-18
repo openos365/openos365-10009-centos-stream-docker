@@ -5,7 +5,6 @@
 
 [debuginfo]
 name=CentOS Stream $releasever - Debuginfo
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/Debuginfo/$basearch/os
 baseurl=http://debuginfo.centos.org/$stream/$basearch/
 gpgcheck=1
 enabled=0

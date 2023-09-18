@@ -5,7 +5,6 @@
 
 [media-baseos]
 name=CentOS Stream $releasever - Media - BaseOS
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/Media/$basearch/baseos/tree/
 baseurl=file:///media/CentOS/BaseOS
         file:///media/cdrom/BaseOS
         file:///media/cdrecorder/BaseOS
@@ -15,7 +14,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [media-appstream]
 name=CentOS Stream $releasever - Media - AppStream
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/Media/$basearch/appstream/tree/
 baseurl=file:///media/CentOS/AppStream
         file:///media/cdrom/AppStream
         file:///media/cdrecorder/AppStream

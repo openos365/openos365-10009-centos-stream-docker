@@ -10,6 +10,7 @@
 
 [ha]
 name=CentOS Stream $releasever - HighAvailability
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/HighAvailability/$basearch/os
 mirrorlist=http://mirrorlist.centos.org/?release=$stream&arch=$basearch&repo=HighAvailability&infra=$infra
 #baseurl=http://mirror.centos.org/$contentdir/$stream/HighAvailability/$basearch/os/
 gpgcheck=1

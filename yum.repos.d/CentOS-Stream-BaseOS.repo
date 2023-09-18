@@ -10,6 +10,7 @@
 
 [baseos]
 name=CentOS Stream $releasever - BaseOS
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/BaseOS/$basearch/os
 mirrorlist=http://mirrorlist.centos.org/?release=$stream&arch=$basearch&repo=BaseOS&infra=$infra
 #baseurl=http://mirror.centos.org/$contentdir/$stream/BaseOS/$basearch/os/
 gpgcheck=1

@@ -2,7 +2,6 @@
 
 [baseos-source]
 name=CentOS Stream $releasever - BaseOS - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/BaseOS/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/BaseOS/Source/
 gpgcheck=1
 enabled=0
@@ -10,7 +9,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [appstream-source]
 name=CentOS Stream $releasever - AppStream - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/AppStream/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/AppStream/Source/
 gpgcheck=1
 enabled=0
@@ -18,7 +16,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [powertools-source]
 name=CentOS Stream $releasever - PowerTools - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/PowerTools/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/PowerTools/Source/
 gpgcheck=1
 enabled=0
@@ -26,7 +23,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [extras-source]
 name=CentOS Stream $releasever - Extras - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/SIGs/$releasever-stream/extras/source/extras-common
 baseurl=http://vault.centos.org/$contentdir/$stream/extras/Source/
 gpgcheck=1
 enabled=0
@@ -34,7 +30,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [ha-source]
 name=CentOS Stream $releasever - HighAvailability - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/HighAvailability/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/HighAvailability/Source/
 gpgcheck=1
 enabled=0
@@ -42,7 +37,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [rt-source]
 name=CentOS Stream $releasever - RT - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/RT/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/RT/Source/
 gpgcheck=1
 enabled=0
@@ -50,7 +44,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [resilientstorage-source]
 name=CentOS Stream $releasever - ResilientStorage - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/ResilientStorage/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/ResilientStorage/Source/
 gpgcheck=1
 enabled=0
@@ -58,7 +51,6 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 
 [nfv-source]
 name=CentOS Stream $releasever - NFV - Source
-baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-stream/$releasever-stream/NFV/source/tree/
 baseurl=http://vault.centos.org/$contentdir/$stream/NFV/Source/
 gpgcheck=1
 enabled=0
