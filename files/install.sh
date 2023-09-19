@@ -33,6 +33,7 @@ crb enable
 
 dnf --assumeyes install kiwi 
 dnf --assumeyes install sudo
+dnf --assumeyes update
 
 cd ~
 if [ -d versions ];then
