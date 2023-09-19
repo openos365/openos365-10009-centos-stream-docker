@@ -35,6 +35,7 @@ dnf --assumeyes install kiwi
 dnf --assumeyes install sudo
 dnf --assumeyes update
 dnf --assumeyes install qemu-img
+dnf --assumeyes install dosfstools
 
 cd ~
 if [ -d versions ];then
