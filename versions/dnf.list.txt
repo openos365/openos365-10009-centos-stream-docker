@@ -33,6 +33,7 @@ dmidecode.x86_64                                                  1:3.3-4.el8   
 dnf.noarch                                                        4.7.0-19.el8                                           @baseos      
 dnf-data.noarch                                                   4.7.0-19.el8                                           @baseos      
 dnf-plugins-core.noarch                                           4.0.21-23.el8                                          @baseos      
+dosfstools.x86_64                                                 4.1-6.el8                                              @baseos      
 dpkg.x86_64                                                       1.20.9-4.el8                                           @epel        
 dwz.x86_64                                                        0.12-10.el8                                            @appstream   
 efi-srpm-macros.noarch                                            3-3.el8                                                @appstream   
@@ -2765,7 +2766,6 @@ dolphin-devel.x86_64                                              22.04.1-1.el8 
 dolphin-libs.x86_64                                               22.04.1-1.el8                                          epel         
 dolphin-plugins.x86_64                                            22.04.1-1.el8                                          epel         
 dos2unix.x86_64                                                   7.4.0-3.el8                                            baseos       
-dosfstools.x86_64                                                 4.1-6.el8                                              baseos       
 dotconf.i686                                                      1.3-18.el8                                             appstream    
 dotconf.x86_64                                                    1.3-18.el8                                             appstream    
 dotconf-devel.i686                                                1.3-18.el8                                             powertools   
