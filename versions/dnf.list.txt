@@ -79,6 +79,7 @@ kmod-libs.x86_64                                                  25-19.el8     
 krb5-libs.x86_64                                                  1.18.2-25.el8                                          @baseos      
 langpacks-en.noarch                                               1.0-12.el8                                             @System      
 libacl.x86_64                                                     2.2.53-1.el8                                           @System      
+libaio.x86_64                                                     0.3.112-1.el8                                          @baseos      
 libarchive.x86_64                                                 3.3.3-5.el8                                            @baseos      
 libassuan.x86_64                                                  2.5.1-3.el8                                            @System      
 libattr.x86_64                                                    2.4.48-3.el8                                           @System      
@@ -356,6 +357,7 @@ python3-unbound.x86_64                                            1.16.2-5.el8  
 python3-urllib3.noarch                                            1.24.2-5.el8                                           @System      
 python3-webencodings.noarch                                       0.5.1-6.el8                                            @appstream   
 python36.x86_64                                                   3.6.8-38.module_el8.5.0+895+a459eca8                   @appstream   
+qemu-img.x86_64                                                   15:6.2.0-39.module_el8+669+76cc32af                    @appstream   
 qt5-srpm-macros.noarch                                            5.15.3-1.el8                                           @appstream   
 readline.x86_64                                                   7.0-10.el8                                             @System      
 redhat-rpm-config.noarch                                          131-1.el8                                              @baseos      
@@ -7593,7 +7595,6 @@ libaesgm-devel.x86_64                                             20090429-24.el
 libaiff.x86_64                                                    6.0-2.el8                                              epel         
 libaiff-devel.x86_64                                              6.0-2.el8                                              epel         
 libaio.i686                                                       0.3.112-1.el8                                          baseos       
-libaio.x86_64                                                     0.3.112-1.el8                                          baseos       
 libaio-devel.i686                                                 0.3.112-1.el8                                          baseos       
 libaio-devel.x86_64                                               0.3.112-1.el8                                          baseos       
 libao.i686                                                        1.2.0-10.el8                                           appstream    
@@ -15870,7 +15871,6 @@ qdox-javadoc.noarch                                               2.0-3.M9.modul
 qelectrotech.x86_64                                               0.90-1.el8                                             epel         
 qelectrotech-symbols.noarch                                       0.90-1.el8                                             epel         
 qemu-guest-agent.x86_64                                           15:6.2.0-39.module_el8+669+76cc32af                    appstream    
-qemu-img.x86_64                                                   15:6.2.0-39.module_el8+669+76cc32af                    appstream    
 qemu-kvm.x86_64                                                   15:6.2.0-39.module_el8+669+76cc32af                    appstream    
 qemu-kvm-block-curl.x86_64                                        15:6.2.0-39.module_el8+669+76cc32af                    appstream    
 qemu-kvm-block-gluster.x86_64                                     15:6.2.0-39.module_el8+669+76cc32af                    appstream    
