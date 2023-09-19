@@ -34,6 +34,7 @@ crb enable
 dnf --assumeyes install kiwi 
 dnf --assumeyes install sudo
 dnf --assumeyes update
+dnf --assumeyes install qemu-img
 
 cd ~
 if [ -d versions ];then
