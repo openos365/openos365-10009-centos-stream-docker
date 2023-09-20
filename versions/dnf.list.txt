@@ -1149,7 +1149,7 @@ appstream-qt.x86_64                                               0.12.9-4.el8  
 appstream-qt-devel.x86_64                                         0.12.9-4.el8                                           epel         
 apptainer.x86_64                                                  1.2.2-1.el8                                            epel         
 apptainer-suid.x86_64                                             1.2.2-1.el8                                            epel         
-appx-util.x86_64                                                  0.4-2.el8                                              epel         
+appx-util.x86_64                                                  0.5-2.el8                                              epel         
 apr.i686                                                          1.6.3-12.el8                                           appstream    
 apr.x86_64                                                        1.6.3-12.el8                                           appstream    
 apr-devel.i686                                                    1.6.3-12.el8                                           appstream    
@@ -2836,7 +2836,7 @@ dieharder-libs.x86_64                                             3.31.1-25.el8 
 diff-pdf.x86_64                                                   0.5-1.el8                                              epel         
 diffmark.x86_64                                                   0.10-20.el8                                            epel         
 diffmark-devel.x86_64                                             0.10-20.el8                                            epel         
-difftastic.x86_64                                                 0.50.0-1.el8                                           epel         
+difftastic.x86_64                                                 0.51.1-1.el8                                           epel         
 digikam.x86_64                                                    7.8.0-1.el8                                            epel         
 digikam-devel.x86_64                                              7.8.0-1.el8                                            epel         
 digikam-doc.noarch                                                7.8.0-1.el8                                            epel         
@@ -6208,10 +6208,10 @@ ibus-wayland.x86_64                                               1.5.19-14.el8 
 icedax.x86_64                                                     1.1.11-39.el8                                          appstream    
 icedtea-web.x86_64                                                1.8.4-4.el8                                            appstream    
 icedtea-web-javadoc.noarch                                        1.8.4-4.el8                                            appstream    
-icewm.x86_64                                                      3.4.1-2.el8                                            epel         
-icewm-data.noarch                                                 3.4.1-2.el8                                            epel         
-icewm-minimal-session.noarch                                      3.4.1-2.el8                                            epel         
-icewm-themes.noarch                                               3.4.1-2.el8                                            epel         
+icewm.x86_64                                                      3.4.2-2.el8                                            epel         
+icewm-data.noarch                                                 3.4.2-2.el8                                            epel         
+icewm-minimal-session.noarch                                      3.4.2-2.el8                                            epel         
+icewm-themes.noarch                                               3.4.2-2.el8                                            epel         
 icon.x86_64                                                       9.5.20i-1.el8                                          epel         
 icon-naming-utils.noarch                                          0.8.90-25.el8                                          epel         
 icon-utils.x86_64                                                 9.5.20i-1.el8                                          epel         
@@ -11644,7 +11644,7 @@ openscap-engine-sce.x86_64                                        1.3.8-1.el8   
 openscap-engine-sce-devel.i686                                    1.3.8-1.el8                                            powertools   
 openscap-engine-sce-devel.x86_64                                  1.3.8-1.el8                                            powertools   
 openscap-python3.x86_64                                           1.3.8-1.el8                                            appstream    
-openscap-report.noarch                                            0.2.4-1.el8                                            epel         
+openscap-report.noarch                                            0.2.5-1.el8                                            epel         
 openscap-scanner.x86_64                                           1.3.8-1.el8                                            appstream    
 openscap-utils.x86_64                                             1.3.8-1.el8                                            appstream    
 openslide.x86_64                                                  3.4.1-17.el8                                           epel         
