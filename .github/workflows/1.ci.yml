@@ -32,5 +32,8 @@ jobs:
           registry: docker.io
           username: ${{ secrets.OPENOS365_DOCKERHUB_USER }}
           password: ${{ secrets.OPENOS365_DOCKERHUB_PASSWORD }}
-      - name: run 1.ci.run.sh
-        run: ./1.ci.run.sh
+      - name: run 1.ci.caller.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.OPENOS365_GITHUB_TOKEN }}
+        run: |
+          ./1.ci.caller.sh
