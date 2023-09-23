@@ -1,67 +1,72 @@
 #
 # /etc/nsswitch.conf
 #
-# An example Name Service Switch config file. This file should be
+# Name Service Switch config file. This file should be
 # sorted with the most-used services at the beginning.
 #
-# The entry '[NOTFOUND=return]' means that the search for an
-# entry should stop if the search in the previous entry turned
-# up nothing. Note that if the search failed due to some other reason
-# (like no NIS server responding) then the search continues with the
-# next entry.
+# Valid databases are: aliases, ethers, group, gshadow, hosts,
+# initgroups, netgroup, networks, passwd, protocols, publickey,
+# rpc, services, and shadow.
 #
-# Valid entries include:
+# Valid service provider entries include (in alphabetical order):
 #
-#	nisplus			Use NIS+ (NIS version 3)
-#	nis			Use NIS (NIS version 2), also called YP
+#	compat			Use /etc files plus *_compat pseudo-db
+#	db			Use the pre-processed /var/db files
 #	dns			Use DNS (Domain Name Service)
-#	files			Use the local files
-#	db			Use the local database (.db) files
-#	compat			Use NIS on compat mode
-#	hesiod			Use Hesiod for user lookups
-#	sss			Use sssd (System Security Services Daemon)
-#	[NOTFOUND=return]	Stop searching if not found so far
+#	files			Use the local files in /etc
+#	hesiod			Use Hesiod (DNS) for user lookups
+#	nis			Use NIS (NIS version 2), also called YP
+#	nisplus			Use NIS+ (NIS version 3)
 #
-# WARNING: Running nscd with a secondary caching service like sssd may lead to
-# 	   unexpected behaviour, especially with how long entries are cached.
-
-# To use db, put the "db" in front of "files" for entries you want to be
-# looked up first in the databases
+# See `info libc 'NSS Basics'` for more information.
 #
-# Example:
-#passwd:    db files nisplus nis
-#shadow:    db files nisplus nis
-#group:     db files nisplus nis
+# Commonly used alternative service providers (may need installation):
+#
+#	ldap			Use LDAP directory server
+#	myhostname		Use systemd host names
+#	mymachines		Use systemd machine names
+#	mdns*, mdns*_minimal	Use Avahi mDNS/DNS-SD
+#	resolve			Use systemd resolved resolver
+#	sss			Use System Security Services Daemon (sssd)
+#	systemd			Use systemd for dynamic user option
+#	winbind			Use Samba winbind support
+#	wins			Use Samba wins support
+#	wrapper			Use wrapper module for testing
+#
+# Notes:
+#
+# 'sssd' performs its own 'files'-based caching, so it should generally
+# come before 'files'.
+#
+# WARNING: Running nscd with a secondary caching service like sssd may
+# 	   lead to unexpected behaviour, especially with how long
+# 	   entries are cached.
+#
+# Installation instructions:
+#
+# To use 'db', install the appropriate package(s) (provide 'makedb' and
+# libnss_db.so.*), and place the 'db' in front of 'files' for entries
+# you want to be looked up first in the databases, like this:
+#
+# passwd:    db files
+# shadow:    db files
+# group:     db files
 
-passwd:     files sss
+# In order of likelihood of use to accelerate lookup.
+passwd:     sss files
 shadow:     files sss
-group:      files sss
-#initgroups: files sss
-
-#hosts:     db files nisplus nis dns
-hosts:      files dns
-
-# Example - obey only what nisplus tells us...
-#services:   nisplus [NOTFOUND=return] files
-#networks:   nisplus [NOTFOUND=return] files
-#protocols:  nisplus [NOTFOUND=return] files
-#rpc:        nisplus [NOTFOUND=return] files
-#ethers:     nisplus [NOTFOUND=return] files
-#netmasks:   nisplus [NOTFOUND=return] files     
-
-bootparams: nisplus [NOTFOUND=return] files
-
-ethers:     files
-netmasks:   files
-networks:   files
-protocols:  files
-rpc:        files
+group:      sss files
+hosts:      files dns myhostname
 services:   files sss
+netgroup:   sss
+automount:  files sss
 
-netgroup:   nisplus sss
-
-publickey:  nisplus
-
-automount:  files nisplus sss
-aliases:    files nisplus
-
+aliases:    files
+ethers:     files
+gshadow:    files
+# Allow initgroups to default to the setting for group.
+# initgroups: files
+networks:   files dns
+protocols:  files
+publickey:  files
+rpc:        files

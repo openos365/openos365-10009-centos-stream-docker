@@ -3,3 +3,4 @@ if ( -x /usr/bin/id ) then
         alias vi vim
     endif
 endif
+

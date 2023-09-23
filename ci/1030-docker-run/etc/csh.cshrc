@@ -20,7 +20,7 @@ if ($?prompt) then
     # make completion work better by default
     set autolist
   else
-    set prompt=\[$user@`hostname -s`\]\$\ 
+    set prompt=\[$user@`/usr/bin/hostname -s`\]\$\ 
   endif
 endif
 
