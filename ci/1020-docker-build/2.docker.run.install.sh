@@ -6,6 +6,6 @@ export PROJECT_NAME="${CMD_PATH##*/}"
 echo $PROJECT_NAME
 cd $CMD_PATH
 
-docker pull openanolis/anolisos:7.9-x86_64
+docker pull quay.io/centos/centos:stream
 
-docker run -i -v ./:/code -w /code openanolis/anolisos:7.9-x86_64 /code/files/install.sh
+docker run -i -v ./:/code -w /code quay.io/centos/centos:stream /code/files/install.sh
