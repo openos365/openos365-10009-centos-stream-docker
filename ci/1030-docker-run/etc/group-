@@ -33,6 +33,7 @@ systemd-coredump:x:997:
 systemd-resolve:x:193:
 tss:x:59:
 unbound:x:996:
+screen:x:84:
 ssh_keys:x:995:
 stapusr:x:156:
 stapsys:x:157:
