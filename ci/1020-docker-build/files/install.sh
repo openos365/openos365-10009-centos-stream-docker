@@ -45,7 +45,8 @@ dnf --assumeyes install dosfstools
 dnf --assumeyes install git
 dnf --assumeyes install expect
 dnf --assumeyes install vim
-dnf --assumeyes openssh-server
+dnf --assumeyes install openssh-server
+dnf --assumeyes install e4fsprogs # mkfs.ext4
 dnf --assumeyes groupinstall "Development Tools"
 
 
