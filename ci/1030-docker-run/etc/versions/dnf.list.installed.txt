@@ -275,6 +275,7 @@ ltrace.x86_64                                 0.7.91-28.el8                     
 lua.x86_64                                    5.3.4-12.el8                         @appstream
 lua-libs.x86_64                               5.3.4-12.el8                         @System   
 lz4-libs.x86_64                               1.8.3-3.el8_4                        @System   
+lzo.x86_64                                    2.08-14.el8                          @baseos   
 m4.x86_64                                     1.4.18-7.el8                         @baseos   
 make.x86_64                                   1:4.2.1-11.el8                       @baseos   
 mcpp.x86_64                                   2.7.2-20.el8                         @appstream
@@ -543,6 +544,7 @@ shadow-utils.x86_64                           2:4.6-19.el8                      
 shared-mime-info.x86_64                       1.9-3.el8                            @baseos   
 source-highlight.x86_64                       3.1.8-17.el8                         @appstream
 sqlite-libs.x86_64                            3.26.0-18.el8                        @baseos   
+squashfs-tools.x86_64                         4.3-20.el8                           @baseos   
 strace.x86_64                                 5.18-2.el8                           @baseos   
 subscription-manager-rhsm-certificates.noarch 20220623-1.el8                       @appstream
 sudo.x86_64                                   1.8.29-10.el8                        @baseos   
