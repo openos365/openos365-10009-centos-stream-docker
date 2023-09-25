@@ -35,6 +35,7 @@ tss:x:59:
 unbound:x:996:
 screen:x:84:
 ssh_keys:x:995:
+sshd:x:74:
 stapusr:x:156:
 stapsys:x:157:
 stapdev:x:158:

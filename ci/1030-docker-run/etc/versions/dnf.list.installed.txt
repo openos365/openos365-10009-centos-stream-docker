@@ -65,6 +65,8 @@ dosfstools.x86_64                             4.1-6.el8                         
 dpkg.x86_64                                   1.20.9-4.el8                         @epel     
 dwz.x86_64                                    0.12-10.el8                          @appstream
 dyninst.x86_64                                12.1.0-1.el8                         @appstream
+e2fsprogs.x86_64                              1.45.6-5.el8                         @baseos   
+e2fsprogs-libs.x86_64                         1.45.6-5.el8                         @baseos   
 efi-srpm-macros.noarch                        3-3.el8                              @appstream
 efivar-libs.x86_64                            37-4.el8                             @baseos   
 elfutils.x86_64                               0.189-3.el8                          @baseos   
@@ -89,6 +91,7 @@ fontconfig.x86_64                             2.13.1-4.el8                      
 fontpackages-filesystem.noarch                1.44-22.el8                          @baseos   
 freetype.x86_64                               2.9.1-9.el8                          @baseos   
 fribidi.x86_64                                1.0.4-9.el8                          @appstream
+fuse-libs.x86_64                              2.9.7-17.el8                         @baseos   
 gawk.x86_64                                   4.2.1-4.el8                          @System   
 gc.x86_64                                     7.6.4-3.el8                          @appstream
 gcc.x86_64                                    8.5.0-20.el8                         @baseos   
@@ -239,6 +242,7 @@ libsepol.x86_64                               2.9-3.el8                         
 libsigsegv.x86_64                             2.11-5.el8                           @System   
 libsmartcols.x86_64                           2.32.1-43.el8                        @baseos   
 libsolv.x86_64                                0.7.20-6.el8                         @baseos   
+libss.x86_64                                  1.45.6-5.el8                         @baseos   
 libssh.x86_64                                 0.9.6-6.el8                          @baseos   
 libssh-config.noarch                          0.9.6-6.el8                          @baseos   
 libstdc++.x86_64                              8.5.0-20.el8                         @baseos   
@@ -297,6 +301,7 @@ openjpeg2.x86_64                              2.4.0-5.el8                       
 openldap.x86_64                               2.4.46-18.el8                        @System   
 openssh.x86_64                                8.0p1-19.el8                         @baseos   
 openssh-clients.x86_64                        8.0p1-19.el8                         @baseos   
+openssh-server.x86_64                         8.0p1-19.el8                         @baseos   
 openssl.x86_64                                1:1.1.1k-9.el8                       @baseos   
 openssl-libs.x86_64                           1:1.1.1k-9.el8                       @baseos   
 openssl-pkcs11.x86_64                         0.4.10-3.el8                         @baseos   

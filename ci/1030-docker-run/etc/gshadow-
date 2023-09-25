@@ -35,6 +35,7 @@ tss:!::
 unbound:!::
 screen:!::
 ssh_keys:!::
+sshd:!::
 stapusr:!::
 stapsys:!::
 stapdev:!::
