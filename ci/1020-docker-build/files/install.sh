@@ -47,6 +47,7 @@ dnf --assumeyes install expect
 dnf --assumeyes install vim
 dnf --assumeyes install openssh-server
 dnf --assumeyes install e4fsprogs # mkfs.ext4
+dnf --assumeyes install squashfs-tools # mksquashfs
 dnf --assumeyes groupinstall "Development Tools"
 
 
