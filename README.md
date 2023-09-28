@@ -37,10 +37,14 @@ podman pull docker.io/openos365/openos365-10009-centos-stream-docker-main-root:l
 podman run -it docker.io/openos365/openos365-10009-centos-stream-docker-main-root:latest
 podman run -it docker.io/openos365/openos365-10009-centos-stream-docker-main-root:latest /sbin/init
 
-podman run -it \
---cap-add NET_RAW \
+sudo podman run -it \
+--cap-add=ALL \
+--tmpfs /tmp \
+--tmpfs /run \
 -v /etc/resolv.conf:/etc/resolv.conf \
---net=host docker.io/openos365/openos365-10009-centos-stream-docker-main-root:latest \
+--net=host \
+--hostname=openos365-10009-centos-stream-docker-main-root \
+docker.io/openos365/openos365-10009-centos-stream-docker-main-root:latest \
 /sbin/init \
 --log-level=debug
 
