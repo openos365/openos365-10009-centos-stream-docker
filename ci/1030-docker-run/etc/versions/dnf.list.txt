@@ -1509,14 +1509,14 @@ blas.x86_64                                                       3.8.0-8.el8   
 blas64.x86_64                                                     3.8.0-8.el8                                                       appstream    
 bleachbit.noarch                                                  4.4.0-1.el8                                                       epel         
 blinken.x86_64                                                    22.04.1-1.el8                                                     epel         
-blis.x86_64                                                       0.7.0-6.el8                                                       epel         
-blis-devel.x86_64                                                 0.7.0-6.el8                                                       epel         
-blis-openmp.x86_64                                                0.7.0-6.el8                                                       epel         
-blis-openmp64.x86_64                                              0.7.0-6.el8                                                       epel         
-blis-serial64.x86_64                                              0.7.0-6.el8                                                       epel         
-blis-srpm-macros.noarch                                           0.7.0-6.el8                                                       epel         
-blis-threads.x86_64                                               0.7.0-6.el8                                                       epel         
-blis-threads64.x86_64                                             0.7.0-6.el8                                                       epel         
+blis.x86_64                                                       0.7.0-7.el8                                                       epel         
+blis-devel.x86_64                                                 0.7.0-7.el8                                                       epel         
+blis-openmp.x86_64                                                0.7.0-7.el8                                                       epel         
+blis-openmp64.x86_64                                              0.7.0-7.el8                                                       epel         
+blis-serial64.x86_64                                              0.7.0-7.el8                                                       epel         
+blis-srpm-macros.noarch                                           0.7.0-7.el8                                                       epel         
+blis-threads.x86_64                                               0.7.0-7.el8                                                       epel         
+blis-threads64.x86_64                                             0.7.0-7.el8                                                       epel         
 blivet-data.noarch                                                1:3.6.0-7.el8                                                     appstream    
 blivet-gui.noarch                                                 2.1.15-1.el8                                                      epel         
 blivet-gui-runtime.noarch                                         2.1.15-1.el8                                                      epel         
@@ -1903,7 +1903,7 @@ capstone-java.noarch                                              4.0.2-5.el8   
 carbon-c-relay.x86_64                                             3.7.3-1.el8                                                       epel         
 cargo.x86_64                                                      1.71.1-1.module_el8+651+4bfdc267                                  appstream    
 cargo-doc.noarch                                                  1.62.1-1.module_el8.7.0+1211+277be900                             appstream    
-castxml.x86_64                                                    0.6.1-2.el8                                                       epel         
+castxml.x86_64                                                    0.6.2-1.el8                                                       epel         
 catch-devel.x86_64                                                2.13.8-1.el8                                                      epel         
 catimg.x86_64                                                     2.7.0-3.el8                                                       epel         
 cbonsai.x86_64                                                    1.3.1-2.el8                                                       epel         
@@ -12126,6 +12126,7 @@ python-bugzilla-cli.noarch                                        3.2.0-1.el8   
 python-calcephpy-doc.noarch                                       3.5.3-2.el8                                                       epel         
 python-capturer-doc.noarch                                        2.4-5.el8                                                         epel         
 python-catkin_pkg-doc.noarch                                      0.5.2-1.el8                                                       epel         
+python-cbor2-doc.noarch                                           5.1.2-3.el8                                                       epel         
 python-celery-doc.noarch                                          4.3.0-5.el8                                                       epel         
 python-certbot-dns-cloudflare-doc.noarch                          1.22.0-1.el8                                                      epel         
 python-certbot-dns-cloudxns-doc.noarch                            1.22.0-1.el8                                                      epel         
@@ -12561,6 +12562,7 @@ python3-case.noarch                                               1.5.3-6.el8   
 python3-catkin-sphinx.noarch                                      0.3.1-1.el8                                                       epel         
 python3-catkin_lint.noarch                                        1.6.22-1.el8                                                      epel         
 python3-catkin_pkg.noarch                                         0.5.2-1.el8                                                       epel         
+python3-cbor2.x86_64                                              5.1.2-3.el8                                                       epel         
 python3-cccolutils.x86_64                                         1.5-11.el8                                                        epel         
 python3-cchardet.x86_64                                           2.1.6-2.el8                                                       epel         
 python3-celery.noarch                                             4.3.0-5.el8                                                       epel         
@@ -14648,7 +14650,7 @@ rpmdistro-repoquery.noarch                                        0^20230819git1
 rpmemd.x86_64                                                     1.6.1-1.el8                                                       appstream    
 rpminspect.x86_64                                                 1.11-1.el8                                                        epel         
 rpminspect-data-centos.noarch                                     1:1.2-1.el8                                                       epel         
-rpminspect-data-fedora.noarch                                     1:1.10-1.el8                                                      epel         
+rpminspect-data-fedora.noarch                                     1:1.12-1.el8                                                      epel         
 rpminspect-data-generic.x86_64                                    1.11-1.el8                                                        epel         
 rpmlint.noarch                                                    1.10-14.el8                                                       appstream    
 rpmreaper.x86_64                                                  0.2.0-20.el8                                                      epel         
