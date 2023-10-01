@@ -6788,7 +6788,7 @@ lasi-devel.x86_64                                                 1.1.2-13.el8  
 lasi-doc.noarch                                                   1.1.2-13.el8                                                      epel         
 lasso.i686                                                        2.6.0-13.el8                                                      appstream    
 lasso.x86_64                                                      2.6.0-13.el8                                                      appstream    
-lastpass-cli.x86_64                                               1.3.6-2.el8                                                       epel         
+lastpass-cli.x86_64                                               1.3.5-1.el8                                                       epel         
 laszip.x86_64                                                     3.4.3-2.el8                                                       epel         
 laszip-devel.x86_64                                               3.4.3-2.el8                                                       epel         
 latex2rtf.x86_64                                                  2.3.18-4.el8                                                      epel         
@@ -9700,10 +9700,10 @@ netcf-devel.x86_64                                                0.2.8-12.modul
 netcf-libs.x86_64                                                 0.2.8-12.module_el8+310+72016cce                                  appstream    
 netconsd.x86_64                                                   0.3-1.el8                                                         epel         
 netconsole-service.noarch                                         10.00.18-1.el8                                                    baseos       
-netdata.x86_64                                                    1.42.4-1.el8                                                      epel         
-netdata-conf.noarch                                               1.42.4-1.el8                                                      epel         
-netdata-data.noarch                                               1.42.4-1.el8                                                      epel         
-netdata-freeipmi.x86_64                                           1.42.4-1.el8                                                      epel         
+netdata.x86_64                                                    1.42.2-1.el8                                                      epel         
+netdata-conf.noarch                                               1.42.2-1.el8                                                      epel         
+netdata-data.noarch                                               1.42.2-1.el8                                                      epel         
+netdata-freeipmi.x86_64                                           1.42.2-1.el8                                                      epel         
 nethack.x86_64                                                    3.6.7-1.el8                                                       epel         
 nethack-bitmap-fonts.noarch                                       3.6.7-1.el8                                                       epel         
 nethack-bitmap-fonts-core.noarch                                  3.6.7-1.el8                                                       epel         
@@ -12810,7 +12810,6 @@ python3-extension-helpers.noarch                                  0.1-5.el8     
 python3-extras.noarch                                             1.0.0-11.el8.1                                                    epel         
 python3-f5-icontrol-rest.noarch                                   1.3.15-1.el8                                                      epel         
 python3-f5-sdk.noarch                                             3.0.21-8.el8                                                      epel         
-python3-falcon.x86_64                                             3.1.1-2.el8                                                       epel         
 python3-fasjson-client.noarch                                     0.1.1-6.el8                                                       epel         
 python3-fasteners.noarch                                          0.17-2.el8                                                        epel         
 python3-fedfind.noarch                                            5.0.1-1.el8                                                       epel         
@@ -12887,7 +12886,6 @@ python3-greenlet.x86_64                                           0.4.13-4.el8  
 python3-grokmirror.noarch                                         2.0.11-1.el8                                                      epel         
 python3-gssapi.x86_64                                             1.5.1-5.el8                                                       appstream    
 python3-gunicorn.noarch                                           20.0.4-3.el8                                                      epel         
-python3-h11.noarch                                                0.13.0-1.el8                                                      epel         
 python3-h2.noarch                                                 3.1.0-3.el8.1                                                     epel         
 python3-h5py.x86_64                                               2.9.0-7.el8                                                       epel         
 python3-hamcrest.noarch                                           1.9.0-8.el8                                                       epel         
@@ -12906,7 +12904,7 @@ python3-hstspreload.noarch                                        2021.5.24-1.el
 python3-html2text.noarch                                          2019.9.26-3.el8                                                   epel         
 python3-httmock.noarch                                            1.3.0-2.el8                                                       epel         
 python3-httpbin.noarch                                            0.7.0-21.el8                                                      epel         
-python3-httpcore.noarch                                           0.12.2-2.el8                                                      epel         
+python3-httpcore.noarch                                           0.12.2-1.el8                                                      epel         
 python3-httpretty.noarch                                          0.9.7-2.el8                                                       epel         
 python3-httpx.noarch                                              0.16.1-2.el8                                                      epel         
 python3-humanfriendly.noarch                                      4.18-1.el8                                                        epel         
@@ -13741,8 +13739,9 @@ python3-verboselogs.noarch                                        1.7-5.el8     
 python3-vertica.noarch                                            1.0.5-1.el8                                                       epel         
 python3-vici.noarch                                               5.9.10-1.el8                                                      epel         
 python3-vine.noarch                                               1.3.0-5.el8                                                       epel         
-python3-virt-firmware.noarch                                      23.9-3.el8                                                        epel         
-python3-virt-firmware-tests.noarch                                23.9-3.el8                                                        epel         
+python3-virt-firmware.noarch                                      23.6-1.el8                                                        epel         
+python3-virt-firmware-peutils.noarch                              23.6-1.el8                                                        epel         
+python3-virt-firmware-tests.noarch                                23.6-1.el8                                                        epel         
 python3-virtualenv.noarch                                         15.1.0-21.module_el8.5.0+895+a459eca8                             appstream    
 python3-virtualenv-clone.noarch                                   0.5.4-1.el8                                                       epel         
 python3-volkszaehler.noarch                                       0.2.0-1.el8                                                       epel         
@@ -14650,7 +14649,7 @@ rpmdevtools.noarch                                                8.10-8.el8    
 rpmdistro-repoquery.noarch                                        0^20230819git18ae234-1.el8                                        epel         
 rpmemd.x86_64                                                     1.6.1-1.el8                                                       appstream    
 rpminspect.x86_64                                                 1.11-1.el8                                                        epel         
-rpminspect-data-centos.noarch                                     1:1.4-1.el8                                                       epel         
+rpminspect-data-centos.noarch                                     1:1.2-1.el8                                                       epel         
 rpminspect-data-fedora.noarch                                     1:1.12-1.el8                                                      epel         
 rpminspect-data-generic.x86_64                                    1.11-1.el8                                                        epel         
 rpmlint.noarch                                                    1.10-14.el8                                                       appstream    
