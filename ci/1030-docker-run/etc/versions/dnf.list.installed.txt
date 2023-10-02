@@ -211,7 +211,7 @@ libgcc.x86_64                                 8.5.0-20.el8                      
 libgcrypt.x86_64                              1.8.5-7.el8_6                        @System   
 libgomp.x86_64                                8.5.0-20.el8                         @baseos   
 libgpg-error.x86_64                           1.31-1.el8                           @System   
-libgs.x86_64                                  9.27-11.el8                          @appstream
+libgs.x86_64                                  9.27-12.el8                          @appstream
 libicu.x86_64                                 60.3-2.el8_1                         @baseos   
 libidn.x86_64                                 1.34-5.el8                           @appstream
 libidn2.x86_64                                2.2.0-1.el8                          @System   
@@ -252,7 +252,7 @@ libstdc++.x86_64                              8.5.0-20.el8                      
 libstdc++-devel.x86_64                        8.5.0-20.el8                         @appstream
 libtasn1.x86_64                               4.13-4.el8_7                         @System   
 libthai.x86_64                                0.1.27-2.el8                         @appstream
-libtiff.x86_64                                4.0.9-28.el8                         @appstream
+libtiff.x86_64                                4.0.9-29.el8                         @appstream
 libtirpc.x86_64                               1.1.4-8.el8                          @System   
 libtool.x86_64                                2.4.6-25.el8                         @appstream
 libtool-ltdl.x86_64                           2.4.6-25.el8                         @baseos   
@@ -465,7 +465,7 @@ perl-threads-shared.x86_64                    1.58-2.el8                        
 perl-utils.noarch                             5.26.3-422.el8                       @appstream
 perl-version.x86_64                           6:0.99.24-1.el8                      @appstream
 pesign.x86_64                                 0.112-26.el8                         @appstream
-pixman.x86_64                                 0.38.4-2.el8                         @appstream
+pixman.x86_64                                 0.38.4-3.el8                         @appstream
 pkgconf.x86_64                                1.4.2-1.el8                          @baseos   
 pkgconf-m4.noarch                             1.4.2-1.el8                          @baseos   
 pkgconf-pkg-config.x86_64                     1.4.2-1.el8                          @baseos   
