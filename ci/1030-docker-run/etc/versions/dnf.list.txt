@@ -14460,7 +14460,7 @@ rest.i686                                                         0.8.1-2.el8   
 rest.x86_64                                                       0.8.1-2.el8                                                       appstream    
 restic.x86_64                                                     0.13.1-1.el8                                                      epel         
 retrace-server.noarch                                             1.24.2-2.el8                                                      epel         
-retsnoop.x86_64                                                   0.9.6-1.el8                                                       epel         
+retsnoop.x86_64                                                   0.9.7-2.el8                                                       epel         
 rhash.x86_64                                                      1.3.8-1.el8                                                       epel         
 rhash-devel.x86_64                                                1.3.8-1.el8                                                       epel         
 rhc.x86_64                                                        1:0.2.4-1.el8                                                     appstream    
@@ -15122,7 +15122,7 @@ shapelib.x86_64                                                   1.5.0-12.el8  
 shapelib-devel.x86_64                                             1.5.0-12.el8                                                      epel         
 shapelib-tools.x86_64                                             1.5.0-12.el8                                                      epel         
 shc.x86_64                                                        4.0.3-1.el8                                                       epel         
-shdoc.noarch                                                      1.1-1.el8                                                         epel         
+shdoc.noarch                                                      1.2-1.el8                                                         epel         
 shelldap.noarch                                                   1.4.0-6.el8                                                       epel         
 shigofumi.x86_64                                                  0.9-1.el8                                                         epel         
 shim-ia32.x86_64                                                  15-15.el8_2                                                       baseos       
@@ -16824,7 +16824,7 @@ wget.x86_64                                                       1.19.5-11.el8 
 wgrib.x86_64                                                      1.8.3-1.el8                                                       epel         
 wgrib2.x86_64                                                     3.1.2-2.el8                                                       epel         
 whatweb.noarch                                                    0.5.5-4.el8                                                       epel         
-whichfont.x86_64                                                  1.0.8-1.el8                                                       epel         
+whichfont.x86_64                                                  1.0.9-1.el8                                                       epel         
 whois.x86_64                                                      5.5.1-2.el8                                                       appstream    
 whois-nls.noarch                                                  5.5.1-2.el8                                                       appstream    
 whowatch.x86_64                                                   1.8.6-5.el8                                                       epel         
