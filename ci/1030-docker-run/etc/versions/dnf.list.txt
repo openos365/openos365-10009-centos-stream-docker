@@ -10307,7 +10307,7 @@ parquet-glib-doc.x86_64                                           8.0.1-1.el8   
 parquet-glib-libs.x86_64                                          8.0.1-1.el8                                                       epel         
 parquet-libs.x86_64                                               8.0.1-1.el8                                                       epel         
 parquet-libs-devel.x86_64                                         8.0.1-1.el8                                                       epel         
-partclone.x86_64                                                  0.3.26-1.el8                                                      epel         
+partclone.x86_64                                                  0.3.25-1.el8                                                      epel         
 parted.i686                                                       3.2-39.el8                                                        baseos       
 parted.x86_64                                                     3.2-39.el8                                                        baseos       
 pass.noarch                                                       1.7.3-7.el8                                                       epel         
