@@ -1,3 +1,5 @@
+Extra Packages for Enterprise Linux 8 - Next -  193 kB/s | 368 kB     00:01    
+Last metadata expiration check: 0:00:01 ago on Fri Oct  6 12:24:18 2023.
 Installed Packages
 acl.x86_64                                                        2.2.53-1.el8                                                      @System      
 adobe-mappings-cmap.noarch                                        20171205-3.el8                                                    @appstream   
