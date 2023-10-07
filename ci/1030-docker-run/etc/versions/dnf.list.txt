@@ -1,3 +1,4 @@
+Last metadata expiration check: 0:00:01 ago on Sat Oct  7 18:39:34 2023.
 Installed Packages
 acl.x86_64                                                        2.2.53-1.el8                                                      @System      
 adobe-mappings-cmap.noarch                                        20171205-3.el8                                                    @appstream   
