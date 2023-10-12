@@ -2253,8 +2253,8 @@ conman.x86_64                                                     0.3.0-5.el8   
 conmon.x86_64                                                     3:2.1.8-1.module_el8+664+4072b3ae                                 appstream    
 connect-proxy.x86_64                                              1.100-22.el8                                                      epel         
 conntrack-tools.x86_64                                            1.4.4-11.el8                                                      baseos       
-conserver.x86_64                                                  8.2.2-5.el8                                                       epel         
-conserver-client.x86_64                                           8.2.2-5.el8                                                       epel         
+conserver.x86_64                                                  8.2.2-4.el8                                                       epel         
+conserver-client.x86_64                                           8.2.2-4.el8                                                       epel         
 console-bridge.x86_64                                             0.3.2-13.el8                                                      epel         
 console-bridge-devel.x86_64                                       0.3.2-13.el8                                                      epel         
 conspy.x86_64                                                     1.14-2.el8                                                        epel         
@@ -2624,7 +2624,7 @@ distrobox.noarch                                                  1.5.0.2-1.el8 
 djvulibre.x86_64                                                  3.5.28-3.el8                                                      epel         
 djvulibre-devel.x86_64                                            3.5.28-3.el8                                                      epel         
 djvulibre-libs.x86_64                                             3.5.28-3.el8                                                      epel         
-dkms.noarch                                                       3.0.12-1.el8                                                      epel         
+dkms.noarch                                                       3.0.11-1.el8                                                      epel         
 dl_poly-common.noarch                                             1.10-12.el8                                                       epel         
 dl_poly-doc.noarch                                                1.10-12.el8                                                       epel         
 dl_poly-gui.noarch                                                1.10-12.el8                                                       epel         
@@ -7232,8 +7232,8 @@ libdirq-devel.x86_64                                              0.5-6.el8     
 libdirq-static.x86_64                                             0.5-6.el8                                                         epel         
 libdisk.x86_64                                                    2021.03.20-1.el8                                                  epel         
 libdisk-devel.x86_64                                              2021.03.20-1.el8                                                  epel         
-libdispatch.x86_64                                                1:5.9-1.el8                                                       epel         
-libdispatch-devel.x86_64                                          1:5.9-1.el8                                                       epel         
+libdispatch.x86_64                                                1:5.7.3-1.el8                                                     epel         
+libdispatch-devel.x86_64                                          1:5.7.3-1.el8                                                     epel         
 libdivide-devel.x86_64                                            5.0-6.el8                                                         epel         
 libdkimpp.x86_64                                                  2.0.0-2.el8                                                       epel         
 libdkimpp-devel.x86_64                                            2.0.0-2.el8                                                       epel         
@@ -15620,10 +15620,10 @@ t1lib-apps.x86_64                                                 5.1.2-28.el8  
 t1lib-devel.x86_64                                                5.1.2-28.el8                                                      epel         
 t1lib-static.x86_64                                               5.1.2-28.el8                                                      epel         
 t1utils.x86_64                                                    1.42-1.el8                                                        epel         
-tacacs.x86_64                                                     F4.0.4.28.7fb~20231005g4fdf178-2.el8                              epel         
-tacacs-devel.x86_64                                               F4.0.4.28.7fb~20231005g4fdf178-2.el8                              epel         
-tacacs-extra.x86_64                                               F4.0.4.28.7fb~20231005g4fdf178-2.el8                              epel         
-tacacs-libs.x86_64                                                F4.0.4.28.7fb~20231005g4fdf178-2.el8                              epel         
+tacacs.x86_64                                                     F4.0.4.28.7fb~20220905g25fd8f0-3.el8                              epel         
+tacacs-devel.x86_64                                               F4.0.4.28.7fb~20220905g25fd8f0-3.el8                              epel         
+tacacs-extra.x86_64                                               F4.0.4.28.7fb~20220905g25fd8f0-3.el8                              epel         
+tacacs-libs.x86_64                                                F4.0.4.28.7fb~20220905g25fd8f0-3.el8                              epel         
 taglib.i686                                                       1.11.1-8.el8                                                      appstream    
 taglib.x86_64                                                     1.11.1-8.el8                                                      appstream    
 taglib-extras.x86_64                                              1.0.1-21.el8                                                      epel         
@@ -16318,7 +16318,7 @@ tomoe.x86_64                                                      0.6.0-43.el8  
 tomoe-devel.x86_64                                                0.6.0-43.el8                                                      epel         
 toolbox.x86_64                                                    0.0.99.4-5.module_el8+649+e2deac1d                                appstream    
 toolbox-tests.x86_64                                              0.0.99.4-5.module_el8+649+e2deac1d                                appstream    
-tor.x86_64                                                        0.4.8.7-1.el8                                                     epel         
+tor.x86_64                                                        0.4.7.13-1.el8                                                    epel         
 torque-libs.i686                                                  4.2.10-25.el8                                                     appstream    
 torque-libs.x86_64                                                4.2.10-25.el8                                                     appstream    
 torrent-file-editor.x86_64                                        0.3.17-2.el8                                                      epel         
@@ -16415,7 +16415,7 @@ uberftp.x86_64                                                    2.9.1-1.el8   
 ubloxcfg.x86_64                                                   1.13-2.20220420gita46d97c.el8                                     epel         
 ubloxcfg-devel.x86_64                                             1.13-2.20220420gita46d97c.el8                                     epel         
 ubloxcfg-doc.noarch                                               1.13-2.20220420gita46d97c.el8                                     epel         
-ucarp.x86_64                                                      1.5.2-33.el8                                                      epel         
+ucarp.x86_64                                                      1.5.2-27.el8                                                      epel         
 uchardet.x86_64                                                   0.0.6-9.el8                                                       epel         
 uchardet-devel.x86_64                                             0.0.6-9.el8                                                       epel         
 ucl.x86_64                                                        1.03-27.el8                                                       epel         
@@ -17125,9 +17125,9 @@ xpp3-javadoc.noarch                                               1.1.4-28.c.el8
 xpp3-minimal.noarch                                               1.1.4-28.c.el8                                                    epel         
 xpra.x86_64                                                       4.4.6-1.el8                                                       epel         
 xrdcl-http.x86_64                                                 1:5.6.2-2.el8                                                     epel         
-xrdp.x86_64                                                       1:0.9.23.1-1.el8                                                  epel         
-xrdp-devel.x86_64                                                 1:0.9.23.1-1.el8                                                  epel         
-xrdp-selinux.x86_64                                               1:0.9.23.1-1.el8                                                  epel         
+xrdp.x86_64                                                       1:0.9.23-1.el8                                                    epel         
+xrdp-devel.x86_64                                                 1:0.9.23-1.el8                                                    epel         
+xrdp-selinux.x86_64                                               1:0.9.23-1.el8                                                    epel         
 xrestop.x86_64                                                    0.4-21.el8                                                        appstream    
 xrootd.x86_64                                                     1:5.6.2-2.el8                                                     epel         
 xrootd-client.x86_64                                              1:5.6.2-2.el8                                                     epel         
