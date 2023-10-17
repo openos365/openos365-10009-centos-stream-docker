@@ -152,7 +152,7 @@ jbigkit-libs.x86_64                           2.1-14.el8                        
 jna.x86_64                                    4.5.1-5.el8                          @appstream
 json-c.x86_64                                 0.13.1-3.el8                         @System   
 json-glib.x86_64                              1.4.4-1.el8                          @System   
-kernel-headers.x86_64                         4.18.0-516.el8                       @baseos   
+kernel-headers.x86_64                         4.18.0-517.el8                       @baseos   
 keyutils-libs.x86_64                          1.5.10-9.el8                         @System   
 kiwi-cli.noarch                               9.25.13-1.el8                        @epel     
 kiwi-systemdeps-core.x86_64                   9.25.13-1.el8                        @epel     
