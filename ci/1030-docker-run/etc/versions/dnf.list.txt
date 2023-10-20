@@ -1073,8 +1073,8 @@ appstream-data.noarch                                             8-20200724.el8
 appstream-devel.x86_64                                            0.12.9-4.el8                                                      epel         
 appstream-qt.x86_64                                               0.12.9-4.el8                                                      epel         
 appstream-qt-devel.x86_64                                         0.12.9-4.el8                                                      epel         
-apptainer.x86_64                                                  1.2.3-1.el8                                                       epel         
-apptainer-suid.x86_64                                             1.2.3-1.el8                                                       epel         
+apptainer.x86_64                                                  1.2.4-1.el8                                                       epel         
+apptainer-suid.x86_64                                             1.2.4-1.el8                                                       epel         
 appx-util.x86_64                                                  0.5-2.el8                                                         epel         
 apr.i686                                                          1.6.3-12.el8                                                      appstream    
 apr.x86_64                                                        1.6.3-12.el8                                                      appstream    
@@ -3480,7 +3480,7 @@ ganglia-gmond.x86_64                                              3.7.2-40.el8  
 ganglia-web.x86_64                                                3.7.5-40.el8                                                      epel         
 garcon.x86_64                                                     4.16.1-1.el8                                                      epel         
 garcon-devel.x86_64                                               4.16.1-1.el8                                                      epel         
-gaupol.x86_64                                                     1.12-3.el8                                                        epel         
+gaupol.x86_64                                                     1.13-1.el8                                                        epel         
 gavl.i686                                                         1.4.0-12.el8                                                      appstream    
 gavl.x86_64                                                       1.4.0-12.el8                                                      appstream    
 gc.i686                                                           7.6.4-3.el8                                                       appstream    
@@ -7194,8 +7194,8 @@ libcrystalhd.x86_64                                               3.10.0-22.el8 
 libcrystalhd-devel.x86_64                                         3.10.0-22.el8                                                     epel         
 libcsv.x86_64                                                     3.0.3^20210820gitb1d5212-1.el8                                    epel         
 libcsv-devel.x86_64                                               3.0.3^20210820gitb1d5212-1.el8                                    epel         
-libcue.x86_64                                                     2.2.1-2.el8                                                       epel         
-libcue-devel.x86_64                                               2.2.1-2.el8                                                       epel         
+libcue.x86_64                                                     2.3.0-1.el8                                                       epel         
+libcue-devel.x86_64                                               2.3.0-1.el8                                                       epel         
 libcurl.i686                                                      7.61.1-33.el8                                                     baseos       
 libcurl-devel.i686                                                7.61.1-33.el8                                                     baseos       
 libcurl-devel.x86_64                                              7.61.1-33.el8                                                     baseos       
@@ -12440,7 +12440,7 @@ python3-acora.x86_64                                              2.2-1.el8     
 python3-adafruit-platformdetect.noarch                            2.18.2-1.el8                                                      epel         
 python3-adafruit-pureio.noarch                                    1.1.7-1.el8                                                       epel         
 python3-adb-shell.noarch                                          0.1.3-1.el8                                                       epel         
-python3-aeidon.noarch                                             1.12-3.el8                                                        epel         
+python3-aeidon.noarch                                             1.13-1.el8                                                        epel         
 python3-aenum.noarch                                              2.2.3-1.el8                                                       epel         
 python3-aexpect.noarch                                            1.6.2-1.el8                                                       epel         
 python3-afsapi.noarch                                             0.0.4-1.el8                                                       epel         
@@ -13774,8 +13774,8 @@ python3-verboselogs.noarch                                        1.7-5.el8     
 python3-vertica.noarch                                            1.0.5-1.el8                                                       epel         
 python3-vici.noarch                                               5.9.10-1.el8                                                      epel         
 python3-vine.noarch                                               1.3.0-5.el8                                                       epel         
-python3-virt-firmware.noarch                                      23.9-3.el8                                                        epel         
-python3-virt-firmware-tests.noarch                                23.9-3.el8                                                        epel         
+python3-virt-firmware.noarch                                      23.10-2.el8                                                       epel         
+python3-virt-firmware-tests.noarch                                23.10-2.el8                                                       epel         
 python3-virtualenv.noarch                                         15.1.0-21.module_el8.5.0+895+a459eca8                             appstream    
 python3-virtualenv-clone.noarch                                   0.5.4-1.el8                                                       epel         
 python3-volkszaehler.noarch                                       0.2.0-1.el8                                                       epel         
@@ -16375,10 +16375,10 @@ trademgen.x86_64                                                  1.00.4-1.el8  
 trademgen-devel.x86_64                                            1.00.4-1.el8                                                      epel         
 trademgen-doc.noarch                                              1.00.4-1.el8                                                      epel         
 trader.x86_64                                                     7.18-1.el8                                                        epel         
-trafficserver.x86_64                                              9.2.2-1.el8                                                       epel         
-trafficserver-devel.noarch                                        9.2.2-1.el8                                                       epel         
-trafficserver-perl.noarch                                         9.2.2-1.el8                                                       epel         
-trafficserver-selinux.noarch                                      9.2.2-1.el8                                                       epel         
+trafficserver.x86_64                                              9.2.3-1.el8                                                       epel         
+trafficserver-devel.noarch                                        9.2.3-1.el8                                                       epel         
+trafficserver-perl.noarch                                         9.2.3-1.el8                                                       epel         
+trafficserver-selinux.noarch                                      9.2.3-1.el8                                                       epel         
 translate-shell.noarch                                            0.9.7.1-1.el8                                                     epel         
 transmission.x86_64                                               3.00-1.el8                                                        epel         
 transmission-cli.x86_64                                           3.00-1.el8                                                        epel         
