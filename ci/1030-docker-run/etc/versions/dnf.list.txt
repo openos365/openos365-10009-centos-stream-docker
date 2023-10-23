@@ -1024,7 +1024,7 @@ anope-tre.x86_64                                                  2.0.14-1.el8  
 ansible.noarch                                                    8.0.0-1.el8.next                                                  epel-next    
 ansible-collection-ansible-posix.noarch                           1.5.4-1.el8                                                       epel         
 ansible-collection-ansible-utils.noarch                           2.6.1-1.el8                                                       epel         
-ansible-collection-awx-awx.noarch                                 23.2.0-1.el8                                                      epel         
+ansible-collection-awx-awx.noarch                                 23.3.0-1.el8                                                      epel         
 ansible-collection-chocolatey-chocolatey.noarch                   1.4.0-1.el8                                                       epel         
 ansible-collection-community-docker.noarch                        2.6.0-1.el8                                                       epel         
 ansible-collection-community-general.noarch                       7.0.0-1.el8                                                       epel         
@@ -9082,9 +9082,9 @@ mate-menus-devel.x86_64                                           1.26.1-1.el8  
 mate-menus-libs.x86_64                                            1.26.1-1.el8                                                      epel         
 mate-menus-preferences-category-menu.x86_64                       1.26.1-1.el8                                                      epel         
 mate-notification-daemon.x86_64                                   1.26.1-1.el8                                                      epel         
-mate-panel.x86_64                                                 1.26.3-1.el8                                                      epel         
-mate-panel-devel.x86_64                                           1.26.3-1.el8                                                      epel         
-mate-panel-libs.x86_64                                            1.26.3-1.el8                                                      epel         
+mate-panel.x86_64                                                 1.26.3-2.el8                                                      epel         
+mate-panel-devel.x86_64                                           1.26.3-2.el8                                                      epel         
+mate-panel-libs.x86_64                                            1.26.3-2.el8                                                      epel         
 mate-polkit.x86_64                                                1.26.1-1.el8                                                      epel         
 mate-power-manager.x86_64                                         1.26.1-1.el8                                                      epel         
 mate-screensaver.x86_64                                           1.26.2-1.el8                                                      epel         
@@ -16323,6 +16323,7 @@ tofrodos.x86_64                                                   1.7.13-13.el8 
 tog-pegasus.x86_64                                                2:2.14.1-46.el8                                                   appstream    
 tog-pegasus-libs.i686                                             2:2.14.1-46.el8                                                   appstream    
 tog-pegasus-libs.x86_64                                           2:2.14.1-46.el8                                                   appstream    
+toilet.x86_64                                                     0.3-15.el8                                                        epel         
 tokyocabinet.i686                                                 1.4.48-10.el8                                                     appstream    
 tokyocabinet.x86_64                                               1.4.48-10.el8                                                     appstream    
 tolua++.x86_64                                                    1.0.93-35.el8                                                     epel         
@@ -16482,7 +16483,7 @@ ultimarc-libs.x86_64                                              1.2.0-1.el8   
 umbrello.x86_64                                                   22.04.1-1.el8                                                     epel         
 umr.x86_64                                                        1.0.5-1.el8                                                       epel         
 umr-devel.x86_64                                                  1.0.5-1.el8                                                       epel         
-unar.x86_64                                                       1.10.7-1.el8                                                      epel         
+unar.x86_64                                                       1.10.8-1.el8                                                      epel         
 unbound.x86_64                                                    1.16.2-5.el8                                                      appstream    
 unbound-devel.i686                                                1.16.2-5.el8                                                      appstream    
 unbound-devel.x86_64                                              1.16.2-5.el8                                                      appstream    
