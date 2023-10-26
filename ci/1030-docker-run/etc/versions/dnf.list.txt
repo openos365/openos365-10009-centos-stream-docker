@@ -9427,8 +9427,8 @@ mpitests-mvapich2-psm2.x86_64                                     7.1-2.el8.1   
 mpitests-openmpi.x86_64                                           7.1-2.el8.1                                                       appstream    
 mpris-scrobbler.x86_64                                            0.4.0.1-1.el8                                                     epel         
 mpssh.x86_64                                                      1.3.3-10.el8                                                      epel         
-mrack.noarch                                                      1.16.0-1.el8                                                      epel         
-mrack-cli.noarch                                                  1.16.0-1.el8                                                      epel         
+mrack.noarch                                                      1.15.1-1.el8                                                      epel         
+mrack-cli.noarch                                                  1.15.1-1.el8                                                      epel         
 mrtg.x86_64                                                       2.17.7-1.el8                                                      appstream    
 mscgen.x86_64                                                     0.20-30.el8                                                       epel         
 msgpack.x86_64                                                    3.1.0-3.el8                                                       epel         
@@ -13168,12 +13168,12 @@ python3-more-itertools.noarch                                     7.2.0-3.el8   
 python3-mozilla-django-oidc.noarch                                1.2.2-4.el8                                                       epel         
 python3-mpi4py-mpich.x86_64                                       3.0.2-5.el8                                                       epel         
 python3-mpi4py-openmpi.x86_64                                     3.0.2-5.el8                                                       epel         
-python3-mrack-aws.noarch                                          1.16.0-1.el8                                                      epel         
-python3-mrack-beaker.noarch                                       1.16.0-1.el8                                                      epel         
-python3-mrack-openstack.noarch                                    1.16.0-1.el8                                                      epel         
-python3-mrack-podman.noarch                                       1.16.0-1.el8                                                      epel         
-python3-mrack-virt.noarch                                         1.16.0-1.el8                                                      epel         
-python3-mracklib.noarch                                           1.16.0-1.el8                                                      epel         
+python3-mrack-aws.noarch                                          1.15.1-1.el8                                                      epel         
+python3-mrack-beaker.noarch                                       1.15.1-1.el8                                                      epel         
+python3-mrack-openstack.noarch                                    1.15.1-1.el8                                                      epel         
+python3-mrack-podman.noarch                                       1.15.1-1.el8                                                      epel         
+python3-mrack-virt.noarch                                         1.15.1-1.el8                                                      epel         
+python3-mracklib.noarch                                           1.15.1-1.el8                                                      epel         
 python3-msal.noarch                                               1.23.0-5.el8                                                      epel         
 python3-msgpack.x86_64                                            0.6.2-1.el8                                                       epel         
 python3-msldap.noarch                                             0.2.13-1.el8                                                      epel         
@@ -13428,7 +13428,6 @@ python3-pyramid-fas-openid.noarch                                 0.3.9-7.el8   
 python3-pyramid-mako.noarch                                       1.0.2-9.el8.1                                                     epel         
 python3-pyrfc3339.noarch                                          1.1-1.el8                                                         epel         
 python3-pyroute2.noarch                                           0.5.3-3.el8                                                       epel         
-python3-pyrpmmd.noarch                                            0.1.1-22.el8                                                      epel         
 python3-pyrsistent.x86_64                                         0.17.3-6.el8                                                      epel         
 python3-pysaml2.noarch                                            6.1.0-4.el8                                                       epel         
 python3-pyscard.x86_64                                            1.9.7-10.el8                                                      epel         
