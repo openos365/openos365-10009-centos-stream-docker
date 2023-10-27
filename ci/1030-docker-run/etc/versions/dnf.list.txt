@@ -11646,7 +11646,7 @@ petsc64-devel.x86_64                                              3.16.0-4.el8.1
 pg-semver.x86_64                                                  0.30.0-2.el8                                                      epel         
 pg_repack.x86_64                                                  1.4.6-3.el8                                                       appstream    
 pg_top.x86_64                                                     4.0.0-1.el8                                                       epel         
-pgbouncer.x86_64                                                  1.20.1-1.el8                                                      epel         
+pgbouncer.x86_64                                                  1.21.0-1.el8                                                      epel         
 pgpdump.x86_64                                                    0.35-1.el8                                                        epel         
 phonon-qt5.x86_64                                                 4.11.1-9.el8                                                      epel         
 phonon-qt5-backend-gstreamer.x86_64                               2:4.10.0-7.el8                                                    epel         
@@ -16688,7 +16688,7 @@ vdo.x86_64                                                        6.2.9.7-14.el8
 vdo-support.x86_64                                                6.2.9.7-14.el8                                                    baseos       
 vdpauinfo.x86_64                                                  1.0-10.el8                                                        epel         
 verilator.x86_64                                                  4.028-1.el8                                                       epel         
-veristat.x86_64                                                   0.1-3.el8                                                         epel         
+veristat.x86_64                                                   0.2-1.el8                                                         epel         
 veritysetup.x86_64                                                2.3.7-7.el8                                                       baseos       
 vhostmd.x86_64                                                    1.1-5.el8                                                         appstream    
 vid.stab.x86_64                                                   1.1.0-12.20190213gitaeabc8d.el8                                   epel         
