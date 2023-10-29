@@ -16,4 +16,6 @@ systemd-coredump:x:999:997:systemd Core Dumper:/:/sbin/nologin
 systemd-resolve:x:193:193:systemd Resolver:/:/sbin/nologin
 tss:x:59:59:Account used for TPM access:/dev/null:/sbin/nologin
 unbound:x:998:996:Unbound DNS resolver:/etc/unbound:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+pesign:x:997:994:Group for the pesign signing daemon:/run/pesign:/sbin/nologin
 www:x:1000:1000::/home/www:/bin/bash

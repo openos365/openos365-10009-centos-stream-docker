@@ -33,5 +33,12 @@ systemd-coredump:!::
 systemd-resolve:!::
 tss:!::
 unbound:!::
+screen:!::
+ssh_keys:!::
+sshd:!::
+stapusr:!::
+stapsys:!::
+stapdev:!::
+pesign:!::
 www:!::
 runner:!::
