@@ -13512,7 +13512,7 @@ python3-readme_renderer.noarch                                    24.0-3.el8    
 python3-recommonmark.noarch                                       0.6.0-3.git.el8                                                   epel         
 python3-redis.noarch                                              3.5.3-1.el8                                                       epel         
 python3-regenmaschine.noarch                                      2.1.0-1.el8                                                       epel         
-python3-regex.x86_64                                              2023.6.3-1.el8                                                    epel         
+python3-regex.x86_64                                              2023.10.3-1.el8                                                   epel         
 python3-registry.noarch                                           1.3.1-2.el8                                                       epel         
 python3-remctl.x86_64                                             3.17-4.el8                                                        epel         
 python3-remoto.noarch                                             1.2.1-1.el8                                                       epel         
@@ -15337,7 +15337,7 @@ spacewalk-usix.noarch                                             2.8.1-5.module
 spamass-milter.x86_64                                             0.4.0-13.el8                                                      epel         
 spamass-milter-postfix.noarch                                     0.4.0-13.el8                                                      epel         
 spamassassin.x86_64                                               3.4.6-1.el8                                                       appstream    
-spamassassin-dqs.noarch                                           1.2.2-1.el8                                                       epel         
+spamassassin-dqs.noarch                                           1.5.1-1.el8                                                       epel         
 spamassassin-iXhash2.noarch                                       2.05-16.el8                                                       epel         
 spandsp.x86_64                                                    0.0.6-9.el8                                                       epel         
 spandsp-apidoc.x86_64                                             0.0.6-9.el8                                                       epel         
@@ -16808,8 +16808,8 @@ vym.x86_64                                                        2.8.8-6.el8   
 w3m.x86_64                                                        0.5.3-60.git20230121.el8                                          epel         
 w3m-img.x86_64                                                    0.5.3-60.git20230121.el8                                          epel         
 wad.noarch                                                        0.4.5-1.el8                                                       epel         
-waf.noarch                                                        2.0.25-1.el8                                                      epel         
-waf-doc.noarch                                                    2.0.25-1.el8                                                      epel         
+waf.noarch                                                        2.0.26-1.el8                                                      epel         
+waf-doc.noarch                                                    2.0.26-1.el8                                                      epel         
 wafw00f.noarch                                                    2.1.0-1.el8                                                       epel         
 waiverdb-cli.noarch                                               1.4.0-1.el8                                                       epel         
 waiverdb-common.noarch                                            1.4.0-1.el8                                                       epel         
