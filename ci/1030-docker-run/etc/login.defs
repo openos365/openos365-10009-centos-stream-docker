@@ -77,6 +77,22 @@ CREATE_HOME	yes
 #
 USERGROUPS_ENAB yes
 
-# Use SHA512 to encrypt password.
+#
+# If set to SHA256, SHA256-based algorithm will be used for encrypting password
+# If set to SHA512, SHA512-based algorithm will be used for encrypting password
+# If set to BCRYPT, BCRYPT-based algorithm will be used for encrypting password
+#
 ENCRYPT_METHOD SHA512
+
+#
+# Only works if ENCRYPT_METHOD is set to SHA256 or SHA512.
+#
+# Define the number of SHA rounds.
+# With a lot of rounds, it is more difficult to brute-force the password.
+# However, more CPU resources will be needed to authenticate users if
+# this value is increased.
+#
+# The values must be within the 1000-999999999 range.
+#
+SHA_CRYPT_MAX_ROUNDS 5000
 

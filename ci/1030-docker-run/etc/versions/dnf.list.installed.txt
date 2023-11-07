@@ -152,7 +152,7 @@ jbigkit-libs.x86_64                           2.1-14.el8                        
 jna.x86_64                                    4.5.1-5.el8                          @appstream
 json-c.x86_64                                 0.13.1-3.el8                         @System   
 json-glib.x86_64                              1.4.4-1.el8                          @System   
-kernel-headers.x86_64                         4.18.0-519.el8                       @baseos   
+kernel-headers.x86_64                         4.18.0-521.el8                       @baseos   
 keyutils-libs.x86_64                          1.5.10-9.el8                         @System   
 kiwi-cli.noarch                               9.25.16-1.el8                        @epel     
 kiwi-systemdeps-core.x86_64                   9.25.16-1.el8                        @epel     
@@ -201,7 +201,7 @@ libcurl.x86_64                                7.61.1-33.el8                     
 libdatrie.x86_64                              0.2.9-7.el8                          @appstream
 libdb.x86_64                                  5.3.28-42.el8_4                      @System   
 libdb-utils.x86_64                            5.3.28-42.el8_4                      @System   
-libdnf.x86_64                                 0.63.0-17.el8                        @baseos   
+libdnf.x86_64                                 0.63.0-18.el8                        @baseos   
 libedit.x86_64                                3.1-23.20170329cvs.el8               @baseos   
 libevent.x86_64                               2.1.8-5.el8                          @baseos   
 libfdisk.x86_64                               2.32.1-43.el8                        @baseos   
@@ -311,7 +311,7 @@ openssl-libs.x86_64                           1:1.1.1k-9.el8                    
 openssl-pkcs11.x86_64                         0.4.10-3.el8                         @baseos   
 p11-kit.x86_64                                0.23.22-1.el8                        @System   
 p11-kit-trust.x86_64                          0.23.22-1.el8                        @System   
-pam.x86_64                                    1.3.1-27.el8                         @baseos   
+pam.x86_64                                    1.3.1-30.el8                         @baseos   
 pango.x86_64                                  1.42.4-8.el8                         @appstream
 passwd.x86_64                                 0.80-4.el8                           @System   
 patch.x86_64                                  2.7.6-11.el8                         @baseos   
@@ -490,14 +490,14 @@ python3-docopt.noarch                         0.6.2-15.el8                      
 python3-ethtool.x86_64                        0.14-5.el8                           @System   
 python3-gobject-base.x86_64                   3.28.3-2.el8                         @System   
 python3-gpg.x86_64                            1.13.1-11.el8                        @System   
-python3-hawkey.x86_64                         0.63.0-17.el8                        @baseos   
+python3-hawkey.x86_64                         0.63.0-18.el8                        @baseos   
 python3-html5lib.noarch                       1:0.999999999-6.el8                  @appstream
 python3-idna.noarch                           2.5-5.el8                            @System   
 python3-iniparse.noarch                       0.4-31.el8                           @System   
 python3-inotify.noarch                        0.9.6-13.el8                         @System   
 python3-kiwi.noarch                           9.25.16-1.el8                        @epel     
 python3-libcomps.x86_64                       0.1.18-1.el8                         @System   
-python3-libdnf.x86_64                         0.63.0-17.el8                        @baseos   
+python3-libdnf.x86_64                         0.63.0-18.el8                        @baseos   
 python3-librepo.x86_64                        1.14.2-4.el8                         @baseos   
 python3-libs.x86_64                           3.6.8-56.el8                         @baseos   
 python3-libxml2.x86_64                        2.9.7-16.el8                         @baseos   
@@ -543,7 +543,7 @@ screen.x86_64                                 4.6.2-12.el8                      
 sed.x86_64                                    4.5-5.el8                            @System   
 setup.noarch                                  2.12.2-9.el8                         @baseos   
 sgml-common.noarch                            0.6.3-50.el8                         @baseos   
-shadow-utils.x86_64                           2:4.6-19.el8                         @baseos   
+shadow-utils.x86_64                           2:4.6-21.el8                         @baseos   
 shared-mime-info.x86_64                       1.9-3.el8                            @baseos   
 source-highlight.x86_64                       3.1.8-17.el8                         @appstream
 sqlite-libs.x86_64                            3.26.0-18.el8                        @baseos   
