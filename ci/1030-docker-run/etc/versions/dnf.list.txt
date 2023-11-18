@@ -15914,7 +15914,7 @@ tesseract-script-vietnamese.noarch                                4.0.0-6.el8   
 tesseract-tessdata-doc.noarch                                     4.0.0-6.el8                                                       epel         
 testcloud.noarch                                                  0.9.2-1.el8                                                       epel         
 testdisk.x86_64                                                   7.1-4.el8                                                         epel         
-testssl.noarch                                                    3.0.6-1.el8                                                       epel         
+testssl.noarch                                                    3.2~rc3-1.el8                                                     epel         
 tex-fonts-hebrew.noarch                                           0.1-28.el8                                                        appstream    
 texlive.x86_64                                                    7:20180414-29.el8                                                 appstream    
 texlive-adjustbox.noarch                                          7:20180414-29.el8                                                 appstream    
@@ -17255,7 +17255,7 @@ yakuake.x86_64                                                    22.08.2-1.el8 
 yaml-cpp.x86_64                                                   0.6.2-3.el8                                                       epel         
 yaml-cpp-devel.x86_64                                             0.6.2-3.el8                                                       epel         
 yaml-cpp-static.x86_64                                            0.6.2-3.el8                                                       epel         
-yamllint.noarch                                                   1.32.0-1.el8                                                      epel         
+yamllint.noarch                                                   1.33.0-1.el8                                                      epel         
 yank.x86_64                                                       1.3.0-1.el8                                                       epel         
 yapet.x86_64                                                      2.6-1.el8                                                         epel         
 yara.i686                                                         4.2.3-1.el8                                                       appstream    
