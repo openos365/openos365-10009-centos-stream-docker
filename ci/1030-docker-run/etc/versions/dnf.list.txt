@@ -1240,8 +1240,8 @@ audacious-plugins-exotic.x86_64                                   4.3.1-3.el8   
 audacious-plugins-jack.x86_64                                     4.3.1-3.el8                                                       epel         
 audacity.x86_64                                                   2.3.3-2.el8                                                       epel         
 audacity-manual.noarch                                            2.3.3-2.el8                                                       epel         
-audiofile.x86_64                                                  1:0.3.6-23.el8                                                    epel         
-audiofile-devel.x86_64                                            1:0.3.6-23.el8                                                    epel         
+audiofile.x86_64                                                  1:0.3.6-36.el8                                                    epel         
+audiofile-devel.x86_64                                            1:0.3.6-36.el8                                                    epel         
 audispd-plugins.x86_64                                            3.1.2-1.el8                                                       baseos       
 audispd-plugins-zos.x86_64                                        3.1.2-1.el8                                                       baseos       
 audit.x86_64                                                      3.1.2-1.el8                                                       baseos       
@@ -9106,9 +9106,9 @@ mate-menus-devel.x86_64                                           1.26.1-1.el8  
 mate-menus-libs.x86_64                                            1.26.1-1.el8                                                      epel         
 mate-menus-preferences-category-menu.x86_64                       1.26.1-1.el8                                                      epel         
 mate-notification-daemon.x86_64                                   1.26.1-1.el8                                                      epel         
-mate-panel.x86_64                                                 1.26.3-2.el8                                                      epel         
-mate-panel-devel.x86_64                                           1.26.3-2.el8                                                      epel         
-mate-panel-libs.x86_64                                            1.26.3-2.el8                                                      epel         
+mate-panel.x86_64                                                 1.26.3-3.el8                                                      epel         
+mate-panel-devel.x86_64                                           1.26.3-3.el8                                                      epel         
+mate-panel-libs.x86_64                                            1.26.3-3.el8                                                      epel         
 mate-polkit.x86_64                                                1.26.1-1.el8                                                      epel         
 mate-power-manager.x86_64                                         1.26.1-1.el8                                                      epel         
 mate-screensaver.x86_64                                           1.26.2-1.el8                                                      epel         
