@@ -997,6 +997,8 @@ amg4psblas-serial-devel.x86_64                                    1.0.0-2.el8   
 amiri-fonts.noarch                                                1.000-1.el8                                                       epel         
 amiri-fonts-common.noarch                                         1.000-1.el8                                                       epel         
 amiri-quran-fonts.noarch                                          1.000-1.el8                                                       epel         
+aml.x86_64                                                        0.3.0-2.el8                                                       epel         
+aml-devel.x86_64                                                  0.3.0-2.el8                                                       epel         
 ampache_browser.x86_64                                            1.0.6-1.el8                                                       epel         
 ampache_browser-devel.x86_64                                      1.0.6-1.el8                                                       epel         
 anaconda.x86_64                                                   33.16.9.4-1.el8                                                   appstream    
@@ -1222,7 +1224,7 @@ atlas-corei2.x86_64                                               3.10.3-8.el8  
 atlas-corei2-devel.x86_64                                         3.10.3-8.el8                                                      baseos       
 atlas-devel.i686                                                  3.10.3-8.el8                                                      baseos       
 atlas-devel.x86_64                                                3.10.3-8.el8                                                      baseos       
-atomic-queue-devel.noarch                                         1.4-1.el8                                                         epel         
+atomic-queue-devel.noarch                                         1.5-1.el8                                                         epel         
 atool.noarch                                                      0.39.0-19.el8                                                     epel         
 atop.x86_64                                                       2.7.1-1.el8                                                       epel         
 atril.x86_64                                                      1.26.1-1.el8                                                      epel         
