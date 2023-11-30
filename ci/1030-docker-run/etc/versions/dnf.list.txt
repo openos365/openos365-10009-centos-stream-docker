@@ -2629,7 +2629,7 @@ distcc.x86_64                                                     3.3.3-3.el8   
 distcc-server.x86_64                                              3.3.3-3.el8                                                       epel         
 distgen.noarch                                                    1.17-1.el8                                                        epel         
 distribution-gpg-keys-copr.noarch                                 1.98-1.el8                                                        epel         
-distrobox.noarch                                                  1.5.0.2-1.el8                                                     epel         
+distrobox.noarch                                                  1.6.0.1-1.el8                                                     epel         
 djvulibre.x86_64                                                  3.5.28-3.el8                                                      epel         
 djvulibre-devel.x86_64                                            3.5.28-3.el8                                                      epel         
 djvulibre-libs.x86_64                                             3.5.28-3.el8                                                      epel         
@@ -6985,9 +6985,9 @@ libXxf86vm-devel.i686                                             1.1.4-9.el8   
 libXxf86vm-devel.x86_64                                           1.1.4-9.el8                                                       appstream    
 liba52.i686                                                       0.7.4-32.el8                                                      appstream    
 liba52.x86_64                                                     0.7.4-32.el8                                                      appstream    
-libabigail.x86_64                                                 2.4-1.el8                                                         epel         
-libabigail-devel.x86_64                                           2.4-1.el8                                                         epel         
-libabigail-doc.x86_64                                             2.4-1.el8                                                         epel         
+libabigail.x86_64                                                 2.4-3.el8                                                         epel         
+libabigail-devel.x86_64                                           2.4-3.el8                                                         epel         
+libabigail-doc.x86_64                                             2.4-3.el8                                                         epel         
 libabw.i686                                                       0.1.2-2.el8                                                       appstream    
 libabw.x86_64                                                     0.1.2-2.el8                                                       appstream    
 libaccounts-glib.x86_64                                           1.25-8.el8                                                        epel         
@@ -9351,7 +9351,7 @@ mod_ssl.x86_64                                                    1:2.4.37-62.mo
 mod_xsendfile.x86_64                                              0.12-23.el8                                                       epel         
 module-build-service.noarch                                       3.9.2-3.el8                                                       epel         
 modulemd-tools.noarch                                             0.7-8.el8                                                         appstream    
-mold.x86_64                                                       2.1.0-1.el8                                                       epel         
+mold.x86_64                                                       2.3.3-1.el8                                                       epel         
 molequeue.x86_64                                                  0.9.0-15.el8                                                      epel         
 molequeue-devel.x86_64                                            0.9.0-15.el8                                                      epel         
 molequeue-doc.noarch                                              0.9.0-15.el8                                                      epel         
@@ -10722,6 +10722,7 @@ perl-Crypt-Eksblowfish.x86_64                                     0.009-26.el8  
 perl-Crypt-GPG.noarch                                             1.64-19.el8                                                       epel         
 perl-Crypt-GeneratePassword.noarch                                0.05-17.el8                                                       epel         
 perl-Crypt-IDEA.x86_64                                            1.10-16.el8                                                       epel         
+perl-Crypt-JWT.noarch                                             0.035-1.el8                                                       epel         
 perl-Crypt-MySQL.x86_64                                           0.04-8.el8                                                        epel         
 perl-Crypt-OpenSSL-Bignum.x86_64                                  0.09-5.el8                                                        appstream    
 perl-Crypt-OpenSSL-RSA.x86_64                                     0.31-1.el8                                                        appstream    
@@ -13595,7 +13596,7 @@ python3-rosdistro.noarch                                          0.9.0-1.el8   
 python3-rosinstall_generator.noarch                               0.1.23-1.el8                                                      epel         
 python3-rospkg.noarch                                             1.5.0-1.el8                                                       epel         
 python3-routes.noarch                                             2.4.1-12.el8                                                      epel         
-python3-rpkg.noarch                                               1.66-11.el8                                                       epel         
+python3-rpkg.noarch                                               1.66-13.el8                                                       epel         
 python3-rpm-generators.noarch                                     5-8.el8                                                           appstream    
 python3-rpm-head-signing.x86_64                                   1.5.1-1.el8                                                       epel         
 python3-rpmconf.noarch                                            1.1.7-2.el8.1                                                     epel         
@@ -14708,7 +14709,7 @@ root-unuran.x86_64                                                6.28.08-1.el8 
 root-vecops.x86_64                                                6.28.08-1.el8                                                     epel         
 rootsh.x86_64                                                     1.5.3-22.el8                                                      epel         
 rpcbind.x86_64                                                    1.2.5-10.el8                                                      baseos       
-rpkg-common.noarch                                                1.66-11.el8                                                       epel         
+rpkg-common.noarch                                                1.66-13.el8                                                       epel         
 rpkg-macros.noarch                                                2.0-1.el8                                                         epel         
 rpki-client.x86_64                                                8.6-2.el8                                                         epel         
 rpl.noarch                                                        1.5.7-6.el8                                                       epel         
@@ -15229,6 +15230,8 @@ simde-devel.x86_64                                                0.0.0-1.git29b
 simfqt.x86_64                                                     1.00.3-1.el8                                                      epel         
 simfqt-devel.x86_64                                               1.00.3-1.el8                                                      epel         
 simfqt-doc.noarch                                                 1.00.3-1.el8                                                      epel         
+simple-mail.x86_64                                                2.3.0-1.el8                                                       epel         
+simple-mail-devel.x86_64                                          2.3.0-1.el8                                                       epel         
 simple-scan.x86_64                                                3.36.2.1-1.el8                                                    epel         
 singularity-ce.x86_64                                             3.11.5-1.el8                                                      epel         
 sip.x86_64                                                        4.19.25-1.el8                                                     appstream    
