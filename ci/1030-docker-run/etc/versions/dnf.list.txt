@@ -1026,7 +1026,7 @@ anope-tre.x86_64                                                  2.0.14-1.el8  
 ansible.noarch                                                    8.3.0-1.el8                                                       epel         
 ansible-collection-ansible-posix.noarch                           1.5.4-1.el8                                                       epel         
 ansible-collection-ansible-utils.noarch                           2.6.1-1.el8                                                       epel         
-ansible-collection-awx-awx.noarch                                 23.3.0-1.el8                                                      epel         
+ansible-collection-awx-awx.noarch                                 23.5.0-1.el8                                                      epel         
 ansible-collection-chocolatey-chocolatey.noarch                   1.4.0-1.el8                                                       epel         
 ansible-collection-community-docker.noarch                        2.6.0-1.el8                                                       epel         
 ansible-collection-community-general.noarch                       7.0.0-1.el8                                                       epel         
@@ -1075,8 +1075,8 @@ appstream-data.noarch                                             8-20200724.el8
 appstream-devel.x86_64                                            0.12.9-4.el8                                                      epel         
 appstream-qt.x86_64                                               0.12.9-4.el8                                                      epel         
 appstream-qt-devel.x86_64                                         0.12.9-4.el8                                                      epel         
-apptainer.x86_64                                                  1.2.4-1.el8                                                       epel         
-apptainer-suid.x86_64                                             1.2.4-1.el8                                                       epel         
+apptainer.x86_64                                                  1.2.5-1.el8                                                       epel         
+apptainer-suid.x86_64                                             1.2.5-1.el8                                                       epel         
 appx-util.x86_64                                                  0.5-2.el8                                                         epel         
 apr.i686                                                          1.6.3-12.el8                                                      appstream    
 apr.x86_64                                                        1.6.3-12.el8                                                      appstream    
@@ -2503,7 +2503,7 @@ daxctl-libs.i686                                                  71.1-7.el8    
 daxctl-libs.x86_64                                                71.1-7.el8                                                        baseos       
 daxio.x86_64                                                      1.6.1-1.el8                                                       appstream    
 dbench.x86_64                                                     4.0-20.el8                                                        epel         
-dbus-broker.x86_64                                                28-3.el8                                                          epel         
+dbus-broker.x86_64                                                28-4.el8                                                          epel         
 dbus-devel.i686                                                   1:1.12.8-26.el8                                                   appstream    
 dbus-devel.x86_64                                                 1:1.12.8-26.el8                                                   appstream    
 dbus-glib.i686                                                    0.110-2.el8                                                       baseos       
@@ -9629,8 +9629,8 @@ nanomsg-doc.x86_64                                                1.1.5-6.el8   
 nant.x86_64                                                       1:0.92-25.el8                                                     epel         
 nant-devel.x86_64                                                 1:0.92-25.el8                                                     epel         
 nant-docs.x86_64                                                  1:0.92-25.el8                                                     epel         
-nativefiledialog-extended.x86_64                                  1.1.0-1.el8                                                       epel         
-nativefiledialog-extended-devel.x86_64                            1.1.0-1.el8                                                       epel         
+nativefiledialog-extended.x86_64                                  1.1.1-1.el8                                                       epel         
+nativefiledialog-extended-devel.x86_64                            1.1.1-1.el8                                                       epel         
 nautilus.x86_64                                                   3.28.1-25.el8                                                     appstream    
 nautilus-extensions.i686                                          3.28.1-25.el8                                                     appstream    
 nautilus-extensions.x86_64                                        3.28.1-25.el8                                                     appstream    
@@ -10787,6 +10787,7 @@ perl-Data-IEEE754-tests.noarch                                    0.02-6.el8    
 perl-Data-Integer.noarch                                          0.006-7.el8                                                       epel         
 perl-Data-MessagePack.x86_64                                      1.01-6.el8                                                        epel         
 perl-Data-Password.noarch                                         1.12-12.el8                                                       epel         
+perl-Data-Password-zxcvbn.noarch                                  1.1.2-1.el8                                                       epel         
 perl-Data-Perl.noarch                                             0.002009-17.el8                                                   epel         
 perl-Data-Printer.noarch                                          1.000004-4.el8                                                    epel         
 perl-Data-Report.noarch                                           0.10-30.el8                                                       epel         
@@ -11048,7 +11049,7 @@ perl-IPC-Signal.noarch                                            1.00-39.el8   
 perl-IRI.noarch                                                   0.009-5.el8                                                       epel         
 perl-Ima-DBI.noarch                                               0.35-30.el8                                                       epel         
 perl-Image-Base.noarch                                            1.17-15.el8                                                       epel         
-perl-Image-ExifTool.noarch                                        12.60-1.el8                                                       epel         
+perl-Image-ExifTool.noarch                                        12.70-1.el8                                                       epel         
 perl-Image-Info.noarch                                            1.41-8.el8                                                        epel         
 perl-Image-Size.noarch                                            3.300-16.el8                                                      epel         
 perl-Image-Xbm.noarch                                             1.10-11.el8                                                       epel         
@@ -12116,7 +12117,7 @@ pskctool.x86_64                                                   2.6.2-3.el8   
 pslib.x86_64                                                      0.4.5-19.el8                                                      epel         
 pslib-devel.x86_64                                                0.4.5-19.el8                                                      epel         
 psmisc.x86_64                                                     23.1-5.el8                                                        baseos       
-pspg.x86_64                                                       5.8.0-1.el8                                                       epel         
+pspg.x86_64                                                       5.8.1-1.el8                                                       epel         
 pssh.noarch                                                       2.3.1-29.el8                                                      epel         
 psutils.noarch                                                    2.05-1.el8                                                        epel         
 psutils-tests.noarch                                              2.05-1.el8                                                        epel         
@@ -12474,6 +12475,7 @@ python3-OWSLib.noarch                                             0.28.1-1.el8  
 python3-PyDrive.noarch                                            1.3.1-11.el8                                                      epel         
 python3-PyMySQL.noarch                                            0.10.1-2.module_el8.5.0+761+faacb0fb                              appstream    
 python3-QtPy.noarch                                               1.10.0-1.el8                                                      epel         
+python3-ROPGadget.noarch                                          7.3-4.el8                                                         epel         
 python3-SoapySDR.x86_64                                           0.8.1-3.el8                                                       epel         
 python3-Traits.x86_64                                             5.1.2-1.el8                                                       epel         
 python3-TurboGears2.noarch                                        2.4.3-2.el8                                                       epel         
@@ -12731,6 +12733,7 @@ python3-collectd_puppet.noarch                                    2.0.0-6.el8   
 python3-collectd_systemd.noarch                                   0.0.1-0.19.20181018git212cb79.el8                                 epel         
 python3-colorama.noarch                                           0.4.3-1.el8                                                       epel         
 python3-colorclass.noarch                                         2.2.0-6.el8                                                       epel         
+python3-colored-traceback.noarch                                  0.3.0-7.el8                                                       epel         
 python3-colorlog.noarch                                           4.1.0-1.el8                                                       epel         
 python3-colour.noarch                                             0.1.5-1.el8                                                       epel         
 python3-commandparse.noarch                                       1.0.8-1.el8                                                       epel         
@@ -13013,6 +13016,7 @@ python3-incremental.noarch                                        17.5.0-5.el8.1
 python3-inflection.noarch                                         0.5.1-1.el8                                                       epel         
 python3-influxdb.noarch                                           5.3.1-1.el8                                                       epel         
 python3-inotify_simple.noarch                                     1.3.4-1.el8                                                       epel         
+python3-intervaltree.noarch                                       3.1.0-10.el8                                                      epel         
 python3-into-dbus-python.noarch                                   0.06-2.el8                                                        appstream    
 python3-ipaclient.noarch                                          4.9.12-8.module_el8+671+6c5eca06                                  appstream    
 python3-ipalib.noarch                                             4.9.12-8.module_el8+671+6c5eca06                                  appstream    
@@ -14522,7 +14526,7 @@ reprepro.x86_64                                                   5.3.0-1.el8   
 reptyr.x86_64                                                     0.7.0-1.el8                                                       epel         
 resalloc.noarch                                                   5.1-1.el8                                                         epel         
 resalloc-agent-spawner.noarch                                     5.1-1.el8                                                         epel         
-resalloc-aws.noarch                                               1.5-1.el8                                                         epel         
+resalloc-aws.noarch                                               1.7-1.el8                                                         epel         
 resalloc-openstack.noarch                                         9.6-1.el8                                                         epel         
 resalloc-selinux.noarch                                           5.1-1.el8                                                         epel         
 resalloc-server.noarch                                            5.1-1.el8                                                         epel         
