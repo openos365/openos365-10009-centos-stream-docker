@@ -13606,6 +13606,7 @@ python3-routes.noarch                                             2.4.1-12.el8  
 python3-rpkg.noarch                                               1.66-13.el8                                                       epel         
 python3-rpm-generators.noarch                                     5-8.el8                                                           appstream    
 python3-rpm-head-signing.x86_64                                   1.5.1-1.el8                                                       epel         
+python3-rpmautospec-core.noarch                                   0.1.1-7.el8                                                       epel         
 python3-rpmconf.noarch                                            1.1.7-2.el8.1                                                     epel         
 python3-rpmconf-doc.noarch                                        1.1.7-2.el8.1                                                     epel         
 python3-rpmfluff.noarch                                           0.5.7.1-2.el8                                                     appstream    
