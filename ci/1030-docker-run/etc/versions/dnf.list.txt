@@ -13833,8 +13833,8 @@ python3-verboselogs.noarch                                        1.7-5.el8     
 python3-vertica.noarch                                            1.0.5-1.el8                                                       epel         
 python3-vici.noarch                                               5.9.10-1.el8                                                      epel         
 python3-vine.noarch                                               1.3.0-5.el8                                                       epel         
-python3-virt-firmware.noarch                                      23.10-2.el8                                                       epel         
-python3-virt-firmware-tests.noarch                                23.10-2.el8                                                       epel         
+python3-virt-firmware.noarch                                      23.11-1.el8                                                       epel         
+python3-virt-firmware-tests.noarch                                23.11-1.el8                                                       epel         
 python3-virtualenv.noarch                                         15.1.0-21.module_el8.5.0+895+a459eca8                             appstream    
 python3-virtualenv-clone.noarch                                   0.5.4-1.el8                                                       epel         
 python3-volkszaehler.noarch                                       0.2.0-1.el8                                                       epel         
@@ -14527,6 +14527,8 @@ remmina-plugins-vnc.x86_64                                        1.4.33-1.el8  
 remmina-plugins-www.x86_64                                        1.4.33-1.el8                                                      epel         
 remmina-plugins-x2go.x86_64                                       1.4.33-1.el8                                                      epel         
 reprepro.x86_64                                                   5.3.0-1.el8                                                       epel         
+reproc.x86_64                                                     14.2.4-1.20230609git1c07bdb.el8                                   epel         
+reproc-devel.x86_64                                               14.2.4-1.20230609git1c07bdb.el8                                   epel         
 reptyr.x86_64                                                     0.7.0-1.el8                                                       epel         
 resalloc.noarch                                                   5.1-1.el8                                                         epel         
 resalloc-agent-spawner.noarch                                     5.1-1.el8                                                         epel         
