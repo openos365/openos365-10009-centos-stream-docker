@@ -13939,6 +13939,7 @@ python3.11-netaddr.noarch                                         0.8.0-2.el8   
 python3.11-ntlm-auth.noarch                                       1.5.0-1.el8                                                       epel         
 python3.11-numpy.x86_64                                           1.23.5-1.el8                                                      appstream    
 python3.11-numpy-f2py.x86_64                                      1.23.5-1.el8                                                      appstream    
+python3.11-passlib.noarch                                         1.7.4-13.el8                                                      epel         
 python3.11-pip.noarch                                             22.3.1-4.el8                                                      appstream    
 python3.11-ply.noarch                                             3.11-1.el8                                                        appstream    
 python3.11-psycopg2.x86_64                                        2.9.3-1.el8                                                       appstream    
