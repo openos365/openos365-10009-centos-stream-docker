@@ -1771,6 +1771,7 @@ breeze-icon-theme.noarch                                          5.96.0-1.el8  
 breeze-icon-theme-rcc.noarch                                      5.96.0-1.el8                                                      epel         
 bridge-utils.x86_64                                               1.7.1-2.el8                                                       epel         
 brightnessctl.x86_64                                              0.3-1.el8                                                         epel         
+brise.x86_64                                                      0.38.20180515-1.el8                                               epel         
 brlapi.i686                                                       0.6.7-32.el8                                                      appstream    
 brlapi.x86_64                                                     0.6.7-32.el8                                                      appstream    
 brlapi-java.x86_64                                                0.6.7-32.el8                                                      appstream    
@@ -5672,6 +5673,7 @@ ibus-libs.x86_64                                                  1.5.19-14.el8 
 ibus-libzhuyin.x86_64                                             1.8.93-1.el8                                                      appstream    
 ibus-m17n.x86_64                                                  1.3.4-26.el8                                                      appstream    
 ibus-mozc.x86_64                                                  2.23.2815.102-8.el8.2                                             epel         
+ibus-rime.x86_64                                                  1.3.0-1.el8                                                       epel         
 ibus-sayura.x86_64                                                1.3.2-13.el8                                                      appstream    
 ibus-setup.noarch                                                 1.5.19-14.el8                                                     appstream    
 ibus-table.noarch                                                 1.9.18-8.el8                                                      appstream    
@@ -8269,6 +8271,9 @@ librevenge.x86_64                                                 0.0.4-12.el8  
 librevenge-gdb.i686                                               0.0.4-12.el8                                                      appstream    
 librevenge-gdb.x86_64                                             0.0.4-12.el8                                                      appstream    
 librhsm.i686                                                      0.0.3-5.el8                                                       baseos       
+librime.x86_64                                                    1.3.2-1.el8                                                       epel         
+librime-devel.x86_64                                              1.3.2-1.el8                                                       epel         
+librime-tools.x86_64                                              1.3.2-1.el8                                                       epel         
 librnp.x86_64                                                     0.17.0-1.el8                                                      epel         
 librnp-devel.x86_64                                               0.17.0-1.el8                                                      epel         
 librpmem.x86_64                                                   1.6.1-1.el8                                                       appstream    
@@ -9136,7 +9141,7 @@ mate-session-manager.x86_64                                       1.26.1-1.el8  
 mate-settings-daemon.x86_64                                       1.26.1-1.el8                                                      epel         
 mate-settings-daemon-devel.x86_64                                 1.26.1-1.el8                                                      epel         
 mate-system-log.x86_64                                            1.26.1-1.el8                                                      epel         
-mate-system-monitor.x86_64                                        1.26.0-2.el8                                                      epel         
+mate-system-monitor.x86_64                                        1.26.2-1.el8                                                      epel         
 mate-terminal.x86_64                                              1.26.1-1.el8                                                      epel         
 mate-themes.noarch                                                3.22.24-1.el8                                                     epel         
 mate-user-admin.x86_64                                            1.7.0-1.el8                                                       epel         
@@ -10106,6 +10111,10 @@ openbox.x86_64                                                    3.6.1-18.el8  
 openbox-devel.x86_64                                              3.6.1-18.el8                                                      epel         
 openbox-kde.noarch                                                3.6.1-18.el8                                                      epel         
 openbox-libs.x86_64                                               3.6.1-18.el8                                                      epel         
+opencc.x86_64                                                     1.0.5-3.el8                                                       epel         
+opencc-devel.x86_64                                               1.0.5-3.el8                                                       epel         
+opencc-doc.x86_64                                                 1.0.5-3.el8                                                       epel         
+opencc-tools.x86_64                                               1.0.5-3.el8                                                       epel         
 openchange.i686                                                   2.3-32.el8                                                        appstream    
 openchange.x86_64                                                 2.3-32.el8                                                        appstream    
 opencl-filesystem.noarch                                          1.0-6.el8                                                         appstream    
@@ -15172,7 +15181,7 @@ seabios.x86_64                                                    1.16.0-4.modul
 seabios-bin.noarch                                                1.16.0-4.module_el8+603+e0ca2c01                                  appstream    
 seahorse.x86_64                                                   3.20.0-9.el8                                                      appstream    
 seahorse-caja.x86_64                                              1.18.5-1.el8                                                      epel         
-seamonkey.x86_64                                                  2.53.17-1.el8                                                     epel         
+seamonkey.x86_64                                                  2.53.18-1.el8                                                     epel         
 seavgabios-bin.noarch                                             1.16.0-4.module_el8+603+e0ca2c01                                  appstream    
 sec.noarch                                                        2.9.2-1.el8                                                       epel         
 secilc.x86_64                                                     2.9-2.el8                                                         epel         
