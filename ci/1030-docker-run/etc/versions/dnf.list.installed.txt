@@ -154,9 +154,9 @@ json-c.x86_64                                 0.13.1-3.el8                      
 json-glib.x86_64                              1.4.4-1.el8                         @System   
 kernel-headers.x86_64                         4.18.0-529.el8                      @baseos   
 keyutils-libs.x86_64                          1.5.10-9.el8                        @System   
-kiwi-cli.noarch                               9.25.16-1.el8                       @epel     
-kiwi-systemdeps-core.x86_64                   9.25.16-1.el8                       @epel     
-kiwi-tools.x86_64                             9.25.16-1.el8                       @epel     
+kiwi-cli.noarch                               9.25.21-1.el8                       @epel     
+kiwi-systemdeps-core.x86_64                   9.25.21-1.el8                       @epel     
+kiwi-tools.x86_64                             9.25.21-1.el8                       @epel     
 kmod-libs.x86_64                              25-20.el8                           @baseos   
 krb5-libs.x86_64                              1.18.2-26.el8                       @baseos   
 langpacks-en.noarch                           1.0-12.el8                          @System   
@@ -495,7 +495,7 @@ python3-html5lib.noarch                       1:0.999999999-6.el8               
 python3-idna.noarch                           2.5-5.el8                           @System   
 python3-iniparse.noarch                       0.4-31.el8                          @System   
 python3-inotify.noarch                        0.9.6-13.el8                        @System   
-python3-kiwi.noarch                           9.25.16-1.el8                       @epel     
+python3-kiwi.noarch                           9.25.21-1.el8                       @epel     
 python3-libcomps.x86_64                       0.1.18-1.el8                        @System   
 python3-libdnf.x86_64                         0.63.0-18.el8                       @baseos   
 python3-librepo.x86_64                        1.14.2-5.el8                        @baseos   
