@@ -16452,7 +16452,7 @@ tomoe.x86_64                                                      0.6.0-43.el8  
 tomoe-devel.x86_64                                                0.6.0-43.el8                                                      epel         
 toolbox.x86_64                                                    0.0.99.4-6.module_el8+712+4cd1bd69                                appstream    
 toolbox-tests.x86_64                                              0.0.99.4-6.module_el8+712+4cd1bd69                                appstream    
-tor.x86_64                                                        0.4.8.9-1.el8                                                     epel         
+tor.x86_64                                                        0.4.8.10-1.el8                                                    epel         
 torque-libs.i686                                                  4.2.10-25.el8                                                     appstream    
 torque-libs.x86_64                                                4.2.10-25.el8                                                     appstream    
 torrent-file-editor.x86_64                                        0.3.17-2.el8                                                      epel         
