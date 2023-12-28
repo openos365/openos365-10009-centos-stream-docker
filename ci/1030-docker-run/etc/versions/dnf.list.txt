@@ -1026,7 +1026,7 @@ anope-tre.x86_64                                                  2.1.0-2.el8   
 ansible.noarch                                                    8.3.0-1.el8                                                       epel         
 ansible-collection-ansible-posix.noarch                           1.5.4-1.el8                                                       epel         
 ansible-collection-ansible-utils.noarch                           2.6.1-1.el8                                                       epel         
-ansible-collection-awx-awx.noarch                                 23.5.0-1.el8                                                      epel         
+ansible-collection-awx-awx.noarch                                 23.5.1-1.el8                                                      epel         
 ansible-collection-chocolatey-chocolatey.noarch                   1.4.0-1.el8                                                       epel         
 ansible-collection-community-docker.noarch                        2.6.0-1.el8                                                       epel         
 ansible-collection-community-general.noarch                       7.0.0-1.el8                                                       epel         
@@ -11705,7 +11705,7 @@ phoronix-test-suite.noarch                                        10.8.4-2.el8  
 php.x86_64                                                        7.2.24-1.module_el8.2.0+313+b04d0a66                              appstream    
 php-IDNA_Convert.noarch                                           0.8.0-14.el8                                                      epel         
 php-Smarty.noarch                                                 3.1.48-2.el8                                                      epel         
-php-adodb.noarch                                                  5.20.6-9.el8                                                      epel         
+php-adodb.noarch                                                  5.22.7-1.el8                                                      epel         
 php-bcmath.x86_64                                                 7.2.24-1.module_el8.2.0+313+b04d0a66                              appstream    
 php-cli.x86_64                                                    7.2.24-1.module_el8.2.0+313+b04d0a66                              appstream    
 php-common.x86_64                                                 7.2.24-1.module_el8.2.0+313+b04d0a66                              appstream    
@@ -17403,9 +17403,9 @@ zbar-libs.x86_64                                                  0.23.90-5.el8 
 zbar-qt.x86_64                                                    0.23.90-5.el8                                                     epel         
 zbar-qt-devel.x86_64                                              0.23.90-5.el8                                                     epel         
 zcfan.x86_64                                                      1.2.1-1.el8                                                       epel         
-zchunk.x86_64                                                     1.3.2-1.el8                                                       epel         
-zchunk-devel.x86_64                                               1.3.2-1.el8                                                       epel         
-zchunk-libs.x86_64                                                1.3.2-1.el8                                                       epel         
+zchunk.x86_64                                                     1.4.0-1.el8                                                       epel         
+zchunk-devel.x86_64                                               1.4.0-1.el8                                                       epel         
+zchunk-libs.x86_64                                                1.4.0-1.el8                                                       epel         
 zeek-btest.x86_64                                                 4.2.0-1.el8                                                       epel         
 zeek-btest-data.noarch                                            4.2.0-1.el8                                                       epel         
 zeek-core.x86_64                                                  4.2.0-1.el8                                                       epel         
