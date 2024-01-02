@@ -10320,6 +10320,9 @@ pagure-theme-srcfpo.noarch                                        5.13.3-2.el8  
 pagure-web-apache-httpd.noarch                                    5.13.3-2.el8                                                      epel         
 pagure-web-nginx.noarch                                           5.13.3-2.el8                                                      epel         
 pagure-webhook.noarch                                             5.13.3-2.el8                                                      epel         
+paho-c.x86_64                                                     1.3.13-2.el8                                                      epel         
+paho-c-devel.x86_64                                               1.3.13-2.el8                                                      epel         
+paho-c-doc.noarch                                                 1.3.13-2.el8                                                      epel         
 painless-password-rotation.noarch                                 0.3-1.el8                                                         epel         
 pakchois.i686                                                     0.4-17.el8                                                        appstream    
 pakchois.x86_64                                                   0.4-17.el8                                                        appstream    
