@@ -1721,6 +1721,7 @@ bouncycastle-tls.noarch                                           1.61-1.el8    
 bovo.x86_64                                                       22.04.1-1.el8                                                     epel         
 bowtie.x86_64                                                     1.2.3-2.el8                                                       epel         
 bowtie2.x86_64                                                    2.4.1-1.el8                                                       epel         
+boxed-cpp-devel.x86_64                                            1.1.0-3.el8                                                       epel         
 boxes.x86_64                                                      2.2.1-1.el8                                                       epel         
 boxes-vim.noarch                                                  2.2.1-1.el8                                                       epel         
 bpfmon.x86_64                                                     2.51-4.el8                                                        epel         
@@ -3455,6 +3456,8 @@ ftgl-devel.x86_64                                                 2.1.3-0.21.rc5
 ftgl-docs.x86_64                                                  2.1.3-0.21.rc5.el8                                                epel         
 ftp.x86_64                                                        0.17-78.el8                                                       appstream    
 fts-rest-client.noarch                                            3.12.4-1.el8                                                      epel         
+ftxui.x86_64                                                      5.0.0-3.el8                                                       epel         
+ftxui-devel.x86_64                                                5.0.0-3.el8                                                       epel         
 fuse.x86_64                                                       2.9.7-17.el8                                                      baseos       
 fuse-afp.x86_64                                                   0.8.1-35.el8                                                      epel         
 fuse-common.x86_64                                                3.3.0-17.el8                                                      baseos       
@@ -9129,7 +9132,7 @@ mate-dictionary.x86_64                                            1.26.1-1.el8  
 mate-disk-image-mounter.x86_64                                    1.26.1-1.el8                                                      epel         
 mate-disk-usage-analyzer.x86_64                                   1.26.1-1.el8                                                      epel         
 mate-icon-theme.noarch                                            1.26.0-2.el8                                                      epel         
-mate-media.x86_64                                                 1.26.1-1.el8                                                      epel         
+mate-media.x86_64                                                 1.26.2-1.el8                                                      epel         
 mate-menus.x86_64                                                 1.26.1-1.el8                                                      epel         
 mate-menus-devel.x86_64                                           1.26.1-1.el8                                                      epel         
 mate-menus-libs.x86_64                                            1.26.1-1.el8                                                      epel         
@@ -10384,7 +10387,7 @@ parquet-glib-doc.x86_64                                           8.0.1-2.el8   
 parquet-glib-libs.x86_64                                          8.0.1-2.el8                                                       epel         
 parquet-libs.x86_64                                               8.0.1-2.el8                                                       epel         
 parquet-libs-devel.x86_64                                         8.0.1-2.el8                                                       epel         
-partclone.x86_64                                                  0.3.27-1.el8                                                      epel         
+partclone.x86_64                                                  0.3.27-2.el8                                                      epel         
 parted.i686                                                       3.2-39.el8                                                        baseos       
 parted.x86_64                                                     3.2-39.el8                                                        baseos       
 pass.noarch                                                       1.7.3-7.el8                                                       epel         
