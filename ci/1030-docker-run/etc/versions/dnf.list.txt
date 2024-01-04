@@ -7764,9 +7764,9 @@ libmatekbd.x86_64                                                 1.26.1-1.el8  
 libmatekbd-devel.x86_64                                           1.26.1-1.el8                                                      epel         
 libmatemixer.x86_64                                               1.26.1-1.el8                                                      epel         
 libmatemixer-devel.x86_64                                         1.26.1-1.el8                                                      epel         
-libmateweather.x86_64                                             1.26.2-1.el8                                                      epel         
-libmateweather-data.noarch                                        1.26.2-1.el8                                                      epel         
-libmateweather-devel.x86_64                                       1.26.2-1.el8                                                      epel         
+libmateweather.x86_64                                             1.26.3-1.el8                                                      epel         
+libmateweather-data.noarch                                        1.26.3-1.el8                                                      epel         
+libmateweather-devel.x86_64                                       1.26.3-1.el8                                                      epel         
 libmatroska.x86_64                                                1.5.0-1.el8                                                       epel         
 libmatroska-devel.x86_64                                          1.5.0-1.el8                                                       epel         
 libmaxminddb.i686                                                 1.2.0-10.el8                                                      appstream    
