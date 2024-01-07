@@ -10588,6 +10588,7 @@ perl-AnyEvent-BDB.noarch                                          1.1-34.el8    
 perl-AnyEvent-CacheDNS.noarch                                     0.08-17.el8                                                       epel         
 perl-AnyEvent-HTTP.noarch                                         2.24-5.el8                                                        epel         
 perl-Apache-DBI.noarch                                            1.12-19.el8                                                       epel         
+perl-Apache-Htpasswd.noarch                                       1.9-31.el8                                                        epel         
 perl-Apache-LogFormat-Compiler.noarch                             0.35-10.el8                                                       epel         
 perl-Apache-Reload.noarch                                         0.13-12.el8                                                       epel         
 perl-Apache-Session.noarch                                        1.93-15.el8                                                       epel         
