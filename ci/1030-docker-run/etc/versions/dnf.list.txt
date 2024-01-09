@@ -9924,6 +9924,7 @@ nsca-ng-client.x86_64                                             1.6-1.el8     
 nsca-ng-server.x86_64                                             1.6-1.el8                                                         epel         
 nscd.x86_64                                                       2.28-246.el8                                                      baseos       
 nsd.x86_64                                                        4.3.8-1.el8                                                       epel         
+nsnake.x86_64                                                     3.0.1-17.el8                                                      epel         
 nsntrace.x86_64                                                   4-2.el8                                                           epel         
 nspr.i686                                                         4.35.0-1.el8                                                      appstream    
 nspr-devel.i686                                                   4.35.0-1.el8                                                      appstream    
@@ -10828,6 +10829,7 @@ perl-Data-Serializer.noarch                                       0.60-14.el8   
 perl-Data-Stream-Bulk.noarch                                      0.11-23.el8                                                       epel         
 perl-Data-Taxi.noarch                                             0.96-25.el8                                                       epel         
 perl-Data-Uniqid.noarch                                           0.12-24.el8                                                       epel         
+perl-Data-Validate-Domain.noarch                                  0.15-7.el8                                                        epel         
 perl-Data-Validate-IP.noarch                                      0.27-11.el8                                                       epel         
 perl-Data-Visitor.noarch                                          0.32-1.el8                                                        epel         
 perl-Date-Calc.noarch                                             6.4-9.el8                                                         appstream    
@@ -11419,7 +11421,7 @@ perl-Sort-MergeSort.noarch                                        0.31-13.el8   
 perl-Sort-Naturally.noarch                                        1.03-22.el8                                                       epel         
 perl-Spellunker.noarch                                            0.4.0-16.el8                                                      epel         
 perl-Spiffy.noarch                                                0.46-19.el8                                                       epel         
-perl-Spreadsheet-ParseExcel.x86_64                                0.6500-24.1.el8                                                   epel         
+perl-Spreadsheet-ParseExcel.x86_64                                0.6600-1.el8                                                      epel         
 perl-Spreadsheet-WriteExcel.noarch                                2.40-17.el8                                                       epel         
 perl-Spreadsheet-XLSX.noarch                                      0.17-1.el8                                                        epel         
 perl-Statistics-Basic.noarch                                      1.6611-16.el8                                                     epel         
@@ -13202,7 +13204,7 @@ python3-mako.noarch                                               1.0.6-14.el8  
 python3-managesieve.noarch                                        0.6-4.el8                                                         epel         
 python3-markdown.noarch                                           2.6.11-2.el8                                                      baseos       
 python3-markdown-include.noarch                                   0.6.0-2.el8                                                       epel         
-python3-markdown2.noarch                                          2.4.10-1.el8                                                      epel         
+python3-markdown2.noarch                                          2.4.12-1.el8                                                      epel         
 python3-markupsafe.x86_64                                         0.23-19.el8                                                       appstream    
 python3-marshmallow.noarch                                        3.1.1-1.el8                                                       epel         
 python3-marshmallow-enum.noarch                                   1.5.1-1.el8                                                       epel         
@@ -13588,7 +13590,7 @@ python3-readme_renderer.noarch                                    24.0-3.el8    
 python3-recommonmark.noarch                                       0.6.0-3.git.el8                                                   epel         
 python3-redis.noarch                                              3.5.3-1.el8                                                       epel         
 python3-regenmaschine.noarch                                      2.1.0-1.el8                                                       epel         
-python3-regex.x86_64                                              2023.10.3-1.el8                                                   epel         
+python3-regex.x86_64                                              2023.12.25-1.el8                                                  epel         
 python3-registry.noarch                                           1.4-11.el8                                                        epel         
 python3-remctl.x86_64                                             3.17-4.el8                                                        epel         
 python3-remoto.noarch                                             1.2.1-1.el8                                                       epel         
@@ -17277,9 +17279,9 @@ xpp3-javadoc.noarch                                               1.1.4-28.c.el8
 xpp3-minimal.noarch                                               1.1.4-28.c.el8                                                    epel         
 xpra.x86_64                                                       4.4.6-1.el8                                                       epel         
 xrdcl-http.x86_64                                                 1:5.6.4-1.el8                                                     epel         
-xrdp.x86_64                                                       1:0.9.23.1-1.el8                                                  epel         
-xrdp-devel.x86_64                                                 1:0.9.23.1-1.el8                                                  epel         
-xrdp-selinux.x86_64                                               1:0.9.23.1-1.el8                                                  epel         
+xrdp.x86_64                                                       1:0.9.24-1.el8                                                    epel         
+xrdp-devel.x86_64                                                 1:0.9.24-1.el8                                                    epel         
+xrdp-selinux.x86_64                                               1:0.9.24-1.el8                                                    epel         
 xrestop.x86_64                                                    0.4-21.el8                                                        appstream    
 xrootd.x86_64                                                     1:5.6.4-1.el8                                                     epel         
 xrootd-client.x86_64                                              1:5.6.4-1.el8                                                     epel         
