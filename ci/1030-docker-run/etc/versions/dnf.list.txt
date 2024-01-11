@@ -6617,7 +6617,7 @@ knot-utils.x86_64                                                 3.3.3-1.el8   
 knotes.x86_64                                                     21.08.3-1.el8                                                     epel         
 knotes-libs.x86_64                                                21.08.3-1.el8                                                     epel         
 koan.noarch                                                       2.0.7.1-6.module_el8.1.0+210+a3d63f21                             appstream    
-kobo-admin.noarch                                                 0.35.0-1.el8                                                      epel         
+kobo-admin.noarch                                                 0.35.1-1.el8                                                      epel         
 koji.noarch                                                       1.33.0-1.el8                                                      epel         
 koji-builder.noarch                                               1.33.0-1.el8                                                      epel         
 koji-builder-plugins.noarch                                       1.33.0-1.el8                                                      epel         
@@ -12190,7 +12190,7 @@ pure-ftpd-selinux.x86_64                                          1.0.49-4.el8  
 purple-hangouts.x86_64                                            1:0-76.20210629git55b9f01.el8                                     epel         
 purple-sipe.x86_64                                                1.23.2-1.el8                                                      appstream    
 purple-telegram.x86_64                                            1.4.6-1.el8                                                       epel         
-putty.x86_64                                                      0.76-1.el8                                                        epel         
+putty.x86_64                                                      0.80-1.el8                                                        epel         
 pv.x86_64                                                         1.6.6-7.el8                                                       epel         
 pw3270.x86_64                                                     5.4-1.el8                                                         epel         
 pwauth.x86_64                                                     2.3.10-24.el8                                                     epel         
@@ -13119,13 +13119,13 @@ python3-kiwisolver.x86_64                                         1.1.0-3.el8   
 python3-klein.noarch                                              20.6.0-2.el8                                                      epel         
 python3-kmod.x86_64                                               0.9-20.el8                                                        baseos       
 python3-koan.noarch                                               2.0.7.1-6.module_el8.1.0+210+a3d63f21                             appstream    
-python3-kobo.noarch                                               0.35.0-1.el8                                                      epel         
-python3-kobo-admin.noarch                                         0.35.0-1.el8                                                      epel         
-python3-kobo-client.noarch                                        0.35.0-1.el8                                                      epel         
-python3-kobo-django.noarch                                        0.35.0-1.el8                                                      epel         
-python3-kobo-hub.noarch                                           0.35.0-1.el8                                                      epel         
-python3-kobo-rpmlib.noarch                                        0.35.0-1.el8                                                      epel         
-python3-kobo-worker.noarch                                        0.35.0-1.el8                                                      epel         
+python3-kobo.noarch                                               0.35.1-1.el8                                                      epel         
+python3-kobo-admin.noarch                                         0.35.1-1.el8                                                      epel         
+python3-kobo-client.noarch                                        0.35.1-1.el8                                                      epel         
+python3-kobo-django.noarch                                        0.35.1-1.el8                                                      epel         
+python3-kobo-hub.noarch                                           0.35.1-1.el8                                                      epel         
+python3-kobo-rpmlib.noarch                                        0.35.1-1.el8                                                      epel         
+python3-kobo-worker.noarch                                        0.35.1-1.el8                                                      epel         
 python3-koji.noarch                                               1.33.0-1.el8                                                      epel         
 python3-koji-cli-plugins.noarch                                   1.33.0-1.el8                                                      epel         
 python3-koji-hub.noarch                                           1.33.0-1.el8                                                      epel         
@@ -14775,7 +14775,7 @@ rootsh.x86_64                                                     1.5.3-22.el8  
 rpcbind.x86_64                                                    1.2.5-10.el8                                                      baseos       
 rpkg-common.noarch                                                1.66-14.el8                                                       epel         
 rpkg-macros.noarch                                                2.0-1.el8                                                         epel         
-rpki-client.x86_64                                                8.7-1.el8                                                         epel         
+rpki-client.x86_64                                                8.8-1.el8                                                         epel         
 rpl.noarch                                                        1.5.7-6.el8                                                       epel         
 rpm-apidocs.noarch                                                4.14.3-31.el8                                                     baseos       
 rpm-build-libs.i686                                               4.14.3-31.el8                                                     baseos       
