@@ -2038,10 +2038,10 @@ cheese.x86_64                                                     2:3.28.0-4.el8
 cheese-libs.i686                                                  2:3.28.0-4.el8                                                    appstream    
 cheese-libs.x86_64                                                2:3.28.0-4.el8                                                    appstream    
 chrome-gnome-shell.x86_64                                         42.1-1.el8                                                        appstream    
-chromedriver.x86_64                                               120.0.6099.129-1.el8                                              epel         
-chromium.x86_64                                                   120.0.6099.129-1.el8                                              epel         
-chromium-common.x86_64                                            120.0.6099.129-1.el8                                              epel         
-chromium-headless.x86_64                                          120.0.6099.129-1.el8                                              epel         
+chromedriver.x86_64                                               120.0.6099.199-1.el8                                              epel         
+chromium.x86_64                                                   120.0.6099.199-1.el8                                              epel         
+chromium-common.x86_64                                            120.0.6099.199-1.el8                                              epel         
+chromium-headless.x86_64                                          120.0.6099.199-1.el8                                              epel         
 chrony.x86_64                                                     4.2-1.el8                                                         baseos       
 chrpath.x86_64                                                    0.16-7.el8                                                        baseos       
 chunkfs.x86_64                                                    0.8-1.el8                                                         epel         
