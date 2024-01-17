@@ -15712,8 +15712,8 @@ sympa-httpd.x86_64                                                6.2.72-2.el8  
 sympa-lighttpd.x86_64                                             6.2.72-2.el8                                                      epel         
 sympa-nginx.x86_64                                                6.2.72-2.el8                                                      epel         
 synce4l.x86_64                                                    0-4.20221122git9564b5.el8                                         appstream    
-syncthing.x86_64                                                  1.27.1-1.el8                                                      epel         
-syncthing-tools.x86_64                                            1.27.1-1.el8                                                      epel         
+syncthing.x86_64                                                  1.27.2-1.el8                                                      epel         
+syncthing-tools.x86_64                                            1.27.2-1.el8                                                      epel         
 synergy.x86_64                                                    1:1.14.3.5-1.el8                                                  epel         
 sysbench.x86_64                                                   1.0.20-5.el8                                                      epel         
 sysfsutils.x86_64                                                 2.1.0-25.el8                                                      appstream    
