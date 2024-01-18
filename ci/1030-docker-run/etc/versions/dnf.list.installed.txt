@@ -58,7 +58,7 @@ distribution-gpg-keys.noarch                  1.99-1.el8                        
 dmidecode.x86_64                              1:3.3-4.el8                         @System   
 dnf.noarch                                    4.7.0-20.el8                        @baseos   
 dnf-data.noarch                               4.7.0-20.el8                        @baseos   
-dnf-plugins-core.noarch                       4.0.21-24.el8                       @baseos   
+dnf-plugins-core.noarch                       4.0.21-25.el8                       @baseos   
 docbook-dtds.noarch                           1.0-69.el8                          @appstream
 docbook-style-xsl.noarch                      1.79.2-9.el8                        @appstream
 dosfstools.x86_64                             4.1-6.el8                           @baseos   
@@ -370,7 +370,7 @@ perl-Filter.x86_64                            2:1.58-2.el8                      
 perl-Filter-Simple.noarch                     0.94-2.el8                          @appstream
 perl-Getopt-Long.noarch                       1:2.50-4.el8                        @baseos   
 perl-Git.noarch                               2.43.0-1.el8                        @appstream
-perl-HTTP-Tiny.noarch                         0.074-2.el8                         @baseos   
+perl-HTTP-Tiny.noarch                         0.074-3.el8                         @baseos   
 perl-IO.x86_64                                1.38-422.el8                        @baseos   
 perl-IO-Compress.noarch                       2.081-1.el8                         @baseos   
 perl-IO-Socket-IP.noarch                      0.39-5.el8                          @appstream
@@ -485,7 +485,7 @@ python3-dbus.x86_64                           1.2.4-15.el8                      
 python3-decorator.noarch                      4.2.1-2.el8                         @System   
 python3-dmidecode.x86_64                      3.12.3-2.el8                        @baseos   
 python3-dnf.noarch                            4.7.0-20.el8                        @baseos   
-python3-dnf-plugins-core.noarch               4.0.21-24.el8                       @baseos   
+python3-dnf-plugins-core.noarch               4.0.21-25.el8                       @baseos   
 python3-docopt.noarch                         0.6.2-15.el8                        @epel     
 python3-ethtool.x86_64                        0.14-5.el8                          @System   
 python3-gobject-base.x86_64                   3.28.3-2.el8                        @System   
