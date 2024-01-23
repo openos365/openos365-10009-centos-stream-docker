@@ -131,7 +131,7 @@ google-droid-sans-fonts.noarch                20120715-13.el8                   
 gpgme.x86_64                                  1.13.1-11.el8                       @System   
 gpm-libs.x86_64                               1.20.7-17.el8                       @appstream
 graphite2.x86_64                              1.3.10-10.el8                       @appstream
-graphviz.x86_64                               2.40.1-44.el8                       @appstream
+graphviz.x86_64                               2.40.1-45.el8                       @appstream
 grep.x86_64                                   3.1-6.el8                           @System   
 groff-base.x86_64                             1.22.3-18.el8                       @baseos   
 gtk-update-icon-cache.x86_64                  3.22.30-11.el8                      @appstream
@@ -152,7 +152,7 @@ jbigkit-libs.x86_64                           2.1-14.el8                        
 jna.x86_64                                    4.5.1-5.el8                         @appstream
 json-c.x86_64                                 0.13.1-3.el8                        @System   
 json-glib.x86_64                              1.4.4-1.el8                         @System   
-kernel-headers.x86_64                         4.18.0-535.el8                      @baseos   
+kernel-headers.x86_64                         4.18.0-536.el8                      @baseos   
 keyutils-libs.x86_64                          1.5.10-9.el8                        @System   
 kiwi-cli.noarch                               9.25.21-2.el8                       @epel     
 kiwi-systemdeps-core.x86_64                   9.25.21-2.el8                       @epel     
@@ -526,7 +526,7 @@ python3.11-libs.x86_64                        3.11.5-2.el8                      
 python3.11-pip-wheel.noarch                   22.3.1-4.el8                        @appstream
 python3.11-setuptools-wheel.noarch            65.5.1-2.el8                        @appstream
 python36.x86_64                               3.6.8-39.module_el8+762+77bd8591    @appstream
-qemu-img.x86_64                               15:6.2.0-45.module_el8+801+7a4672cd @appstream
+qemu-img.x86_64                               15:6.2.0-46.module_el8+831+274a459a @appstream
 qt5-srpm-macros.noarch                        5.15.3-1.el8                        @appstream
 readline.x86_64                               7.0-10.el8                          @System   
 redhat-rpm-config.noarch                      131-1.el8                           @baseos   
