@@ -1934,9 +1934,9 @@ cdparanoia-libs.x86_64                                            10.2-27.el8   
 cdrdao.x86_64                                                     1.2.3-32.el8                                                      appstream    
 cdrskin.x86_64                                                    1.4.8-4.el8                                                       epel         
 cdrskin1.x86_64                                                   1.5.6-1.el8                                                       epel         
-cekit.noarch                                                      4.9.1-1.el8                                                       epel         
-cekit-bash-completion.noarch                                      4.9.1-1.el8                                                       epel         
-cekit-zsh-completion.noarch                                       4.9.1-1.el8                                                       epel         
+cekit.noarch                                                      4.10.0-1.el8                                                      epel         
+cekit-bash-completion.noarch                                      4.10.0-1.el8                                                      epel         
+cekit-zsh-completion.noarch                                       4.10.0-1.el8                                                      epel         
 celt051.i686                                                      0.5.1.3-15.el8                                                    appstream    
 celt051.x86_64                                                    0.5.1.3-15.el8                                                    appstream    
 centos-backgrounds.noarch                                         85.8-2.el8                                                        appstream    
@@ -7152,8 +7152,8 @@ libbs2b-devel.x86_64                                              3.1.0-23.el8  
 libbsd.x86_64                                                     0.11.7-2.el8                                                      epel         
 libbsd-ctor-static.x86_64                                         0.11.7-2.el8                                                      epel         
 libbsd-devel.x86_64                                               0.11.7-2.el8                                                      epel         
-libbson.x86_64                                                    1.24.3-1.el8                                                      epel         
-libbson-devel.x86_64                                              1.24.3-1.el8                                                      epel         
+libbson.x86_64                                                    1.24.3-2.el8                                                      epel         
+libbson-devel.x86_64                                              1.24.3-2.el8                                                      epel         
 libburn.i686                                                      1.4.8-3.el8                                                       appstream    
 libburn-doc.noarch                                                1.4.8-4.el8                                                       epel         
 libburn1.x86_64                                                   1.5.6-1.el8                                                       epel         
@@ -9382,9 +9382,9 @@ molequeue.x86_64                                                  0.9.0-15.el8  
 molequeue-devel.x86_64                                            0.9.0-15.el8                                                      epel         
 molequeue-doc.noarch                                              0.9.0-15.el8                                                      epel         
 molequeue-libs.x86_64                                             0.9.0-15.el8                                                      epel         
-mongo-c-driver.x86_64                                             1.24.3-1.el8                                                      epel         
-mongo-c-driver-devel.x86_64                                       1.24.3-1.el8                                                      epel         
-mongo-c-driver-libs.x86_64                                        1.24.3-1.el8                                                      epel         
+mongo-c-driver.x86_64                                             1.24.3-2.el8                                                      epel         
+mongo-c-driver-devel.x86_64                                       1.24.3-2.el8                                                      epel         
+mongo-c-driver-libs.x86_64                                        1.24.3-2.el8                                                      epel         
 monit.x86_64                                                      5.30.0-1.el8                                                      epel         
 monitor-edid.x86_64                                               3.4-2.el8                                                         epel         
 monitorix.noarch                                                  3.15.0-1.el8                                                      epel         
