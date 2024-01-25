@@ -2272,8 +2272,8 @@ conman.x86_64                                                     0.3.0-5.el8   
 conmon.x86_64                                                     3:2.1.8-1.module_el8+712+4cd1bd69                                 appstream    
 connect-proxy.x86_64                                              1.100-22.el8                                                      epel         
 conntrack-tools.x86_64                                            1.4.4-11.el8                                                      baseos       
-conserver.x86_64                                                  8.2.2-5.el8                                                       epel         
-conserver-client.x86_64                                           8.2.2-5.el8                                                       epel         
+conserver.x86_64                                                  8.2.2-6.el8                                                       epel         
+conserver-client.x86_64                                           8.2.2-6.el8                                                       epel         
 console-bridge.x86_64                                             0.3.2-13.el8                                                      epel         
 console-bridge-devel.x86_64                                       0.3.2-13.el8                                                      epel         
 conspy.x86_64                                                     1.14-2.el8                                                        epel         
@@ -2453,6 +2453,7 @@ cvs.x86_64                                                        1.11.23-52.el8
 cvs-contrib.noarch                                                1.11.23-52.el8                                                    epel         
 cvs-doc.noarch                                                    1.11.23-52.el8                                                    epel         
 cvs-inetd.noarch                                                  1.11.23-52.el8                                                    epel         
+cxxopts-devel.x86_64                                              3.1.1-1.el8                                                       epel         
 cyrus-imapd.i686                                                  3.0.7-24.el8                                                      appstream    
 cyrus-imapd.x86_64                                                3.0.7-24.el8                                                      appstream    
 cyrus-imapd-utils.x86_64                                          3.0.7-24.el8                                                      appstream    
@@ -9800,6 +9801,7 @@ netplan-default-backend-NetworkManager.noarch                     0.105-4.el8   
 netplan-default-backend-networkd.noarch                           0.105-4.el8                                                       epel         
 netplan-devel.x86_64                                              0.105-4.el8                                                       epel         
 netplan-libs.x86_64                                               0.105-4.el8                                                       epel         
+netrate.x86_64                                                    0.1-5.el8                                                         epel         
 netsniff-ng.x86_64                                                0.6.8-11.el8                                                      epel         
 netstandard-targeting-pack-2.1.x86_64                             8.0.100-3.el8                                                     appstream    
 nettle.i686                                                       3.4.1-7.el8                                                       baseos       
@@ -9833,8 +9835,8 @@ nginx-mod-mail.x86_64                                             1:1.14.1-9.mod
 nginx-mod-stream.x86_64                                           1:1.14.1-9.module_el8.0.0+1060+3ab382d3                           appstream    
 ngircd.x86_64                                                     26-3.el8                                                          epel         
 ngrep.x86_64                                                      1.47-3.1.20180101git9b59468.el8                                   epel         
-nickle.x86_64                                                     2.93-1.el8                                                        epel         
-nickle-devel.x86_64                                               2.93-1.el8                                                        epel         
+nickle.x86_64                                                     2.97-1.el8                                                        epel         
+nickle-devel.x86_64                                               2.97-1.el8                                                        epel         
 nikto.noarch                                                      1:2.1.6-8.el8                                                     epel         
 nispor.i686                                                       1.2.10-1.el8                                                      appstream    
 nispor.x86_64                                                     1.2.10-1.el8                                                      appstream    
@@ -10330,6 +10332,9 @@ pagure-webhook.noarch                                             5.13.3-2.el8  
 paho-c.x86_64                                                     1.3.13-2.el8                                                      epel         
 paho-c-devel.x86_64                                               1.3.13-2.el8                                                      epel         
 paho-c-doc.noarch                                                 1.3.13-2.el8                                                      epel         
+paho-cpp.x86_64                                                   1.3.2-2.el8                                                       epel         
+paho-cpp-devel.x86_64                                             1.3.2-2.el8                                                       epel         
+paho-cpp-doc.noarch                                               1.3.2-2.el8                                                       epel         
 painless-password-rotation.noarch                                 0.3-1.el8                                                         epel         
 pakchois.i686                                                     0.4-17.el8                                                        appstream    
 pakchois.x86_64                                                   0.4-17.el8                                                        appstream    
@@ -13787,7 +13792,7 @@ python3-tcxparser.noarch                                          1.1.0-3.el8   
 python3-tdb.i686                                                  1.4.9-0.el8                                                       baseos       
 python3-tdb.x86_64                                                1.4.9-0.el8                                                       baseos       
 python3-tempita.noarch                                            0.5.1-22.el8.1                                                    epel         
-python3-templated-dictionary.noarch                               1.1-1.el8                                                         epel         
+python3-templated-dictionary.noarch                               1.4-1.el8                                                         epel         
 python3-tempora.noarch                                            1.14.1-5.el8                                                      epel         
 python3-termcolor.noarch                                          1.1.0-24.el8                                                      epel         
 python3-test.i686                                                 3.6.8-59.el8                                                      appstream    
