@@ -7975,6 +7975,8 @@ libotr-devel.x86_64                                               4.1.1-8.el8   
 libpagemaker.i686                                                 0.0.4-3.el8                                                       appstream    
 libpagemaker.x86_64                                               0.0.4-3.el8                                                       appstream    
 libpaper.i686                                                     1.1.24-22.el8                                                     appstream    
+libpasswdqc.x86_64                                                2.0.3-2.el8                                                       epel         
+libpasswdqc-devel.x86_64                                          2.0.3-2.el8                                                       epel         
 libpath_utils.i686                                                0.2.1-40.el8                                                      baseos       
 libpath_utils.x86_64                                              0.2.1-40.el8                                                      baseos       
 libpcap.i686                                                      14:1.9.1-5.el8                                                    baseos       
@@ -9474,8 +9476,8 @@ mpitests-mvapich2-psm2.x86_64                                     7.1-2.el8.1   
 mpitests-openmpi.x86_64                                           7.1-2.el8.1                                                       appstream    
 mpris-scrobbler.x86_64                                            0.4.0.1-1.el8                                                     epel         
 mpssh.x86_64                                                      1.3.3-10.el8                                                      epel         
-mrack.noarch                                                      1.17.0-1.el8                                                      epel         
-mrack-cli.noarch                                                  1.17.0-1.el8                                                      epel         
+mrack.noarch                                                      1.18.0-1.el8                                                      epel         
+mrack-cli.noarch                                                  1.18.0-1.el8                                                      epel         
 mrtg.x86_64                                                       2.17.7-1.el8                                                      appstream    
 mscgen.x86_64                                                     0.20-30.el8                                                       epel         
 msgpack.x86_64                                                    3.1.0-3.el8                                                       epel         
@@ -10351,6 +10353,7 @@ pam_duo.x86_64                                                    1.12.1-5.el8  
 pam_krb5.x86_64                                                   4.11-1.el8                                                        epel         
 pam_mount.x86_64                                                  2.16-10.el8                                                       epel         
 pam_oath.x86_64                                                   2.6.2-3.el8                                                       epel         
+pam_passwdqc.x86_64                                               2.0.3-2.el8                                                       epel         
 pam_radius.x86_64                                                 2.0.0-3.el8                                                       epel         
 pam_script.x86_64                                                 1.1.9-7.el8                                                       epel         
 pam_ssh.x86_64                                                    2.3-2.el8                                                         epel         
@@ -10401,6 +10404,8 @@ parted.x86_64                                                     3.2-39.el8    
 pass.noarch                                                       1.7.3-7.el8                                                       epel         
 passenger.x86_64                                                  6.0.4-3.el8                                                       epel         
 passenger-devel.x86_64                                            6.0.4-3.el8                                                       epel         
+passwdqc.x86_64                                                   2.0.3-2.el8                                                       epel         
+passwdqc-utils.x86_64                                             2.0.3-2.el8                                                       epel         
 past-time.noarch                                                  0.2.0-3.el8                                                       epel         
 pastebinit.noarch                                                 1.5-11.el8                                                        epel         
 patatt.noarch                                                     0.4.9-1.el8                                                       epel         
@@ -13254,12 +13259,12 @@ python3-more-itertools.noarch                                     7.2.0-3.el8   
 python3-mozilla-django-oidc.noarch                                1.2.2-4.el8                                                       epel         
 python3-mpi4py-mpich.x86_64                                       3.0.2-5.el8                                                       epel         
 python3-mpi4py-openmpi.x86_64                                     3.0.2-5.el8                                                       epel         
-python3-mrack-aws.noarch                                          1.17.0-1.el8                                                      epel         
-python3-mrack-beaker.noarch                                       1.17.0-1.el8                                                      epel         
-python3-mrack-openstack.noarch                                    1.17.0-1.el8                                                      epel         
-python3-mrack-podman.noarch                                       1.17.0-1.el8                                                      epel         
-python3-mrack-virt.noarch                                         1.17.0-1.el8                                                      epel         
-python3-mracklib.noarch                                           1.17.0-1.el8                                                      epel         
+python3-mrack-aws.noarch                                          1.18.0-1.el8                                                      epel         
+python3-mrack-beaker.noarch                                       1.18.0-1.el8                                                      epel         
+python3-mrack-openstack.noarch                                    1.18.0-1.el8                                                      epel         
+python3-mrack-podman.noarch                                       1.18.0-1.el8                                                      epel         
+python3-mrack-virt.noarch                                         1.18.0-1.el8                                                      epel         
+python3-mracklib.noarch                                           1.18.0-1.el8                                                      epel         
 python3-msal.noarch                                               1.23.0-5.el8                                                      epel         
 python3-msgpack.x86_64                                            0.6.2-1.el8                                                       epel         
 python3-msldap.noarch                                             0.2.13-1.el8                                                      epel         
@@ -15221,7 +15226,7 @@ seabios.x86_64                                                    1.16.0-4.modul
 seabios-bin.noarch                                                1.16.0-4.module_el8+603+e0ca2c01                                  appstream    
 seahorse.x86_64                                                   3.20.0-9.el8                                                      appstream    
 seahorse-caja.x86_64                                              1.18.5-1.el8                                                      epel         
-seamonkey.x86_64                                                  2.53.18-1.el8                                                     epel         
+seamonkey.x86_64                                                  2.53.18.1-1.el8                                                   epel         
 seavgabios-bin.noarch                                             1.16.0-4.module_el8+603+e0ca2c01                                  appstream    
 sec.noarch                                                        2.9.2-1.el8                                                       epel         
 secilc.x86_64                                                     2.9-2.el8                                                         epel         
