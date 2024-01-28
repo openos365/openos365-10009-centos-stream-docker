@@ -13744,7 +13744,7 @@ python3-spacewalk-oscap.noarch                                    2.8.5-4.module
 python3-spacewalk-usix.noarch                                     2.8.1-5.module_el8.1.0+210+a3d63f21                               appstream    
 python3-speaklater.noarch                                         1.3-19.el8                                                        epel         
 python3-spec.noarch                                               1.4.1-2.el8                                                       epel         
-python3-specfile.noarch                                           0.25.0-1.el8                                                      epel         
+python3-specfile.noarch                                           0.27.0-1.el8                                                      epel         
 python3-speechd.x86_64                                            0.8.8-6.el8                                                       appstream    
 python3-sphinx-argparse.noarch                                    0.2.2-17.el8                                                      epel         
 python3-sphinx-bootstrap-theme.noarch                             0.8.1-1.el8                                                       epel         
@@ -15313,6 +15313,9 @@ simcrs.x86_64                                                     1.01.3-1.el8  
 simcrs-devel.x86_64                                               1.01.3-1.el8                                                      epel         
 simcrs-doc.noarch                                                 1.01.3-1.el8                                                      epel         
 simde-devel.x86_64                                                0.0.0-1.git29b9110.el8                                            epel         
+simdjson.x86_64                                                   3.6.3-1.el8                                                       epel         
+simdjson-devel.x86_64                                             3.6.3-1.el8                                                       epel         
+simdjson-doc.x86_64                                               3.6.3-1.el8                                                       epel         
 simfqt.x86_64                                                     1.00.3-1.el8                                                      epel         
 simfqt-devel.x86_64                                               1.00.3-1.el8                                                      epel         
 simfqt-doc.noarch                                                 1.00.3-1.el8                                                      epel         
