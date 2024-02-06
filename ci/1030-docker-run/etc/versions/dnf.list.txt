@@ -12318,7 +12318,7 @@ python-notify2-doc.noarch                                         0.3.1-7.el8   
 python-oletools-doc.noarch                                        0.56.2-1.el8                                                      epel         
 python-opentracing-doc.noarch                                     2.4.0-2.el8                                                       epel         
 python-osrf-pycommon-doc.noarch                                   2.1.4-1.el8                                                       epel         
-python-paramiko-doc.noarch                                        2.12.0-1.el8                                                      epel         
+python-paramiko-doc.noarch                                        2.12.0-2.el8                                                      epel         
 python-pdfminer-doc.noarch                                        20220319-2.el8                                                    epel         
 python-pika-doc.noarch                                            1.0.1-3.el8.1                                                     epel         
 python-pkginfo-doc.noarch                                         1.5.0.1-6.el8                                                     epel         
@@ -13365,7 +13365,7 @@ python3-pam.noarch                                                1.8.4-6.el8   
 python3-pamela.noarch                                             0.3.0-17.el8                                                      epel         
 python3-pandas.x86_64                                             0.25.3-1.el8                                                      epel         
 python3-parameterized.noarch                                      0.6.1-6.el8.1                                                     epel         
-python3-paramiko.noarch                                           2.12.0-1.el8                                                      epel         
+python3-paramiko.noarch                                           2.12.0-2.el8                                                      epel         
 python3-parse.noarch                                              1.19.0-1.el8                                                      epel         
 python3-parse_type.noarch                                         0.6.0-2.el8                                                       epel         
 python3-parsedatetime.noarch                                      2.5-1.el8                                                         epel         
@@ -16439,7 +16439,7 @@ tinyfugue.x86_64                                                  5.0-0.100.b8.e
 tinyxml.x86_64                                                    2.6.2-19.el8                                                      epel         
 tinyxml-devel.x86_64                                              2.6.2-19.el8                                                      epel         
 tio.x86_64                                                        2.7-1.el8                                                         epel         
-tito.noarch                                                       0.6.24-1.el8                                                      epel         
+tito.noarch                                                       0.6.25-1.el8                                                      epel         
 tix.i686                                                          1:8.4.3-23.el8                                                    appstream    
 tix.x86_64                                                        1:8.4.3-23.el8                                                    appstream    
 tk.i686                                                           1:8.6.8-1.el8                                                     appstream    
