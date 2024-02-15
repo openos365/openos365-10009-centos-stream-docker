@@ -7969,8 +7969,8 @@ liborc-devel.x86_64                                               1.7.10-1.el8  
 liborc1.x86_64                                                    1.7.10-1.el8                                                      epel         
 liborcus.i686                                                     0.15.4-2.el8                                                      appstream    
 liborcus.x86_64                                                   0.15.4-2.el8                                                      appstream    
-liboscillator-disciplining.x86_64                                 3.6.2-1.el8                                                       epel         
-liboscillator-disciplining-devel.x86_64                           3.6.2-1.el8                                                       epel         
+liboscillator-disciplining.x86_64                                 3.6.3-1.el8                                                       epel         
+liboscillator-disciplining-devel.x86_64                           3.6.3-1.el8                                                       epel         
 libosinfo.i686                                                    1.9.0-3.el8                                                       appstream    
 libosinfo.x86_64                                                  1.9.0-3.el8                                                       appstream    
 libotf.i686                                                       0.9.13-11.el8                                                     appstream    
@@ -10286,7 +10286,7 @@ osbuild-lvm2.noarch                                               106-1.el8     
 osbuild-ostree.noarch                                             106-1.el8                                                         appstream    
 osbuild-selinux.noarch                                            106-1.el8                                                         appstream    
 oscap-anaconda-addon.noarch                                       1.2.1-14.el8                                                      appstream    
-oscillatord.x86_64                                                3.6.2-1.el8                                                       epel         
+oscillatord.x86_64                                                3.6.3-1.el8                                                       epel         
 osinfo-db.noarch                                                  20231215-1.el8                                                    appstream    
 osinfo-db-tools.x86_64                                            1.9.0-1.el8                                                       appstream    
 osslsigncode.x86_64                                               2.5-3.el8                                                         epel         
