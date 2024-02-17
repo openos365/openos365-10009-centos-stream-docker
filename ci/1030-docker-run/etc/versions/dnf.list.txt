@@ -1027,7 +1027,7 @@ anope-tre.x86_64                                                  2.1.1-1.el8   
 ansible.noarch                                                    8.3.0-1.el8                                                       epel         
 ansible-collection-ansible-posix.noarch                           1.5.4-1.el8                                                       epel         
 ansible-collection-ansible-utils.noarch                           2.6.1-1.el8                                                       epel         
-ansible-collection-awx-awx.noarch                                 23.6.0-1.el8                                                      epel         
+ansible-collection-awx-awx.noarch                                 23.7.0-1.el8                                                      epel         
 ansible-collection-chocolatey-chocolatey.noarch                   1.4.0-1.el8                                                       epel         
 ansible-collection-community-docker.noarch                        2.6.0-1.el8                                                       epel         
 ansible-collection-community-general.noarch                       7.0.0-1.el8                                                       epel         
@@ -1322,6 +1322,7 @@ avogadro2.x86_64                                                  1.95.1-4.el8  
 avogadro2-libs.x86_64                                             1.95.1-8.el8                                                      epel         
 avogadro2-libs-devel.x86_64                                       1.95.1-8.el8                                                      epel         
 avogadro2-libs-doc.noarch                                         1.95.1-8.el8                                                      epel         
+avrdude.x86_64                                                    7.3-1.el8                                                         epel         
 awesome-vim-colorschemes.noarch                                   0-15.20220504git9f96bbd.14.el8                                    epel         
 awscli.noarch                                                     1.18.156-4.el8                                                    epel         
 awstats.noarch                                                    7.9-1.el8                                                         epel         
@@ -1881,11 +1882,11 @@ calc.x86_64                                                       2.12.7.2-4.el8
 calc-devel.x86_64                                                 2.12.7.2-4.el8                                                    epel         
 calc-libs.x86_64                                                  2.12.7.2-4.el8                                                    epel         
 calc-stdrc.x86_64                                                 2.12.7.2-4.el8                                                    epel         
-calceph.x86_64                                                    3.5.4-1.el8                                                       epel         
-calceph-devel.x86_64                                              3.5.4-1.el8                                                       epel         
-calceph-doc.noarch                                                3.5.4-1.el8                                                       epel         
-calceph-fortran-devel.x86_64                                      3.5.4-1.el8                                                       epel         
-calceph-libs.x86_64                                               3.5.4-1.el8                                                       epel         
+calceph.x86_64                                                    3.5.5-1.el8                                                       epel         
+calceph-devel.x86_64                                              3.5.5-1.el8                                                       epel         
+calceph-doc.noarch                                                3.5.5-1.el8                                                       epel         
+calceph-fortran-devel.x86_64                                      3.5.5-1.el8                                                       epel         
+calceph-libs.x86_64                                               3.5.5-1.el8                                                       epel         
 cambozola.noarch                                                  0.936-9.el8                                                       epel         
 cambozola-javadoc.noarch                                          0.936-9.el8                                                       epel         
 canl-c.x86_64                                                     3.0.0-8.el8                                                       epel         
@@ -12264,7 +12265,7 @@ python-bitstruct-doc.noarch                                       8.17.0-1.el8  
 python-bloom-doc.noarch                                           0.11.2-2.el8                                                      epel         
 python-breathe-doc.noarch                                         4.11.1-2.el8                                                      epel         
 python-bugzilla-cli.noarch                                        3.2.0-1.el8                                                       epel         
-python-calcephpy-doc.noarch                                       3.5.4-1.el8                                                       epel         
+python-calcephpy-doc.noarch                                       3.5.5-1.el8                                                       epel         
 python-capturer-doc.noarch                                        2.4-5.el8                                                         epel         
 python-catkin_pkg-doc.noarch                                      1.0.0-1.el8                                                       epel         
 python-cbor2-doc.noarch                                           5.1.2-3.el8                                                       epel         
@@ -12657,7 +12658,7 @@ python3-biscuits.x86_64                                           0.3.1-1.el8   
 python3-bitstring.noarch                                          3.1.7-1.el8                                                       epel         
 python3-bitstruct.x86_64                                          8.17.0-1.el8                                                      epel         
 python3-blackbird.noarch                                          0.5-1.el8                                                         epel         
-python3-bleach.noarch                                             3.1.4-2.el8                                                       epel         
+python3-bleach.noarch                                             3.3.0-1.el8                                                       epel         
 python3-blessed.noarch                                            1.19.1-1.el8                                                      epel         
 python3-blessings.noarch                                          1.7-8.el8                                                         epel         
 python3-blinker.noarch                                            1.4-4.el8                                                         epel         
@@ -12694,7 +12695,7 @@ python3-cairo.i686                                                1.16.3-6.el8  
 python3-cairo.x86_64                                              1.16.3-6.el8                                                      appstream    
 python3-cairocffi.noarch                                          1.2.0-4.el8                                                       epel         
 python3-cairosvg.noarch                                           2.7.0-1.el8                                                       epel         
-python3-calcephpy.x86_64                                          3.5.4-1.el8                                                       epel         
+python3-calcephpy.x86_64                                          3.5.5-1.el8                                                       epel         
 python3-calligrabot.noarch                                        1.0.0-1.el8                                                       epel         
 python3-cantera.x86_64                                            2.6.0-0.7.a4.el8                                                  epel         
 python3-cantor.x86_64                                             19.12.2-2.el8                                                     epel         
