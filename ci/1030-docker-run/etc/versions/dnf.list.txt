@@ -2024,10 +2024,10 @@ cgnslib.x86_64                                                    3.4.0-3.el8   
 cgnslib-devel.x86_64                                              3.4.0-3.el8                                                       epel         
 chan.i686                                                         0.0.4-3.el8                                                       appstream    
 chan.x86_64                                                       0.0.4-3.el8                                                       appstream    
-charliecloud.x86_64                                               0.32-2.el8                                                        epel         
-charliecloud-builder.x86_64                                       0.32-2.el8                                                        epel         
-charliecloud-doc.noarch                                           0.32-2.el8                                                        epel         
-charliecloud-test.x86_64                                          0.32-2.el8                                                        epel         
+charliecloud.x86_64                                               0.36-1.el8                                                        epel         
+charliecloud-builder.x86_64                                       0.36-1.el8                                                        epel         
+charliecloud-doc.noarch                                           0.36-1.el8                                                        epel         
+charliecloud-test.x86_64                                          0.36-1.el8                                                        epel         
 check.i686                                                        0.12.0-2.el8                                                      appstream    
 check.x86_64                                                      0.12.0-2.el8                                                      appstream    
 check-devel.i686                                                  0.12.0-2.el8                                                      appstream    
@@ -2039,10 +2039,10 @@ cheese.x86_64                                                     2:3.28.0-4.el8
 cheese-libs.i686                                                  2:3.28.0-4.el8                                                    appstream    
 cheese-libs.x86_64                                                2:3.28.0-4.el8                                                    appstream    
 chrome-gnome-shell.x86_64                                         42.1-1.el8                                                        appstream    
-chromedriver.x86_64                                               121.0.6167.139-2.el8                                              epel         
-chromium.x86_64                                                   121.0.6167.139-2.el8                                              epel         
-chromium-common.x86_64                                            121.0.6167.139-2.el8                                              epel         
-chromium-headless.x86_64                                          121.0.6167.139-2.el8                                              epel         
+chromedriver.x86_64                                               121.0.6167.160-1.el8                                              epel         
+chromium.x86_64                                                   121.0.6167.160-1.el8                                              epel         
+chromium-common.x86_64                                            121.0.6167.160-1.el8                                              epel         
+chromium-headless.x86_64                                          121.0.6167.160-1.el8                                              epel         
 chrony.x86_64                                                     4.5-1.el8                                                         baseos       
 chrpath.x86_64                                                    0.16-7.el8                                                        baseos       
 chunkfs.x86_64                                                    0.8-1.el8                                                         epel         
@@ -9343,6 +9343,7 @@ mmlib.x86_64                                                      1.4.2-8.el8   
 mmlib-devel.x86_64                                                1.4.2-8.el8                                                       epel         
 mmtf-cpp-devel.x86_64                                             1.1.0-1.el8                                                       epel         
 mmtf-cpp-doc.noarch                                               1.1.0-1.el8                                                       epel         
+mmv.x86_64                                                        2.6-1.el8                                                         epel         
 moarvm.x86_64                                                     0.2019.07.1-2.el8                                                 epel         
 moarvm-devel.x86_64                                               0.2019.07.1-2.el8                                                 epel         
 mobile-broadband-provider-info.noarch                             20210805-1.el8                                                    baseos       
@@ -10058,7 +10059,7 @@ oci-seccomp-bpf-hook.x86_64                                       1.2.10-1.modul
 ocl-icd.i686                                                      2.2.12-1.el8                                                      appstream    
 ocl-icd.x86_64                                                    2.2.12-1.el8                                                      appstream    
 ocproxy.x86_64                                                    1.60-1.20190728gitc98f06d.el8                                     epel         
-ocserv.x86_64                                                     1.2.4-1.el8                                                       epel         
+ocserv.x86_64                                                     1.2.4-2.el8                                                       epel         
 ocsinventory-agent.x86_64                                         2.9.3-1.el8                                                       epel         
 ocspd.x86_64                                                      1.9.0-16.el8                                                      epel         
 octave.x86_64                                                     6:5.2.0-1.el8                                                     epel         
