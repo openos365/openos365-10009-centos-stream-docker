@@ -5858,9 +5858,9 @@ iptraf-ng.x86_64                                                  1.2.1-2.el8   
 iptstate.x86_64                                                   2.2.6-6.el8                                                       baseos       
 iputils.x86_64                                                    20180629-11.el8                                                   baseos       
 iputils-ninfod.x86_64                                             20180629-11.el8                                                   baseos       
-ipv6calc.x86_64                                                   4.1.0-70.el8                                                      epel         
-ipv6calc-ipv6calcweb.x86_64                                       4.1.0-70.el8                                                      epel         
-ipv6calc-mod_ipv6calc.x86_64                                      4.1.0-70.el8                                                      epel         
+ipv6calc.x86_64                                                   4.2.0-80.el8                                                      epel         
+ipv6calc-ipv6calcweb.x86_64                                       4.2.0-80.el8                                                      epel         
+ipv6calc-mod_ipv6calc.x86_64                                      4.2.0-80.el8                                                      epel         
 ipvsadm.x86_64                                                    1.31-1.el8                                                        appstream    
 ipxe-bootimgs.noarch                                              20181214-8.git133f4c47.el8                                        appstream    
 ipxe-bootimgs-aarch64.noarch                                      20181214-9.git133f4c47.el8                                        appstream    
@@ -12293,7 +12293,7 @@ python-django-filter-doc.noarch                                   22.1-1.el8    
 python-django3-bash-completion.noarch                             3.2.20-1.el8                                                      epel         
 python-docker-tests.noarch                                        5.0.0-2.el8                                                       epel         
 python-docx-doc.noarch                                            0.8.11-3.el8                                                      epel         
-python-editorconfig-doc.noarch                                    0.12.3-3.el8                                                      epel         
+python-editorconfig-doc.noarch                                    0.12.4-1.el8                                                      epel         
 python-entrypoints-doc.noarch                                     0.3-1.el8                                                         epel         
 python-ephem-doc.noarch                                           3.7.7.1-4.el8                                                     epel         
 python-f5-sdk-doc.noarch                                          3.0.21-8.el8                                                      epel         
@@ -12935,7 +12935,7 @@ python3-easyco.noarch                                             0.2.3-1.el8   
 python3-easygui.noarch                                            0.96-25.el8                                                       epel         
 python3-ecdsa.noarch                                              0.13.3-1.el8                                                      epel         
 python3-editor.noarch                                             1.0.4-1.el8                                                       epel         
-python3-editorconfig.noarch                                       0.12.3-3.el8                                                      epel         
+python3-editorconfig.noarch                                       0.12.4-1.el8                                                      epel         
 python3-elasticsearch.noarch                                      7.0.5-2.el8                                                       epel         
 python3-elasticsearch6.noarch                                     6.4.2-2.el8                                                       epel         
 python3-email-validator.noarch                                    1.0.5-12.el8                                                      epel         
