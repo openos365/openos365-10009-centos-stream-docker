@@ -1999,8 +1999,8 @@ centos-release-samba419.noarch                                    1.0-2.el8s    
 centos-release-storage-common.noarch                              2-2.el8                                                           extras       
 centos-release-stream.x86_64                                      8.1-1.1911.0.7.el8                                                extras       
 centos-release-virt-common.noarch                                 1-2.el8                                                           extras       
-centpkg.noarch                                                    0.8.1-2.el8                                                       epel         
-centpkg-sig.noarch                                                0.8.1-2.el8                                                       epel         
+centpkg.noarch                                                    0.8.2-1.el8                                                       epel         
+centpkg-sig.noarch                                                0.8.2-1.el8                                                       epel         
 cepces.noarch                                                     0.3.5-7.el8                                                       epel         
 cepces-certmonger.noarch                                          0.3.5-7.el8                                                       epel         
 cepces-selinux.noarch                                             0.3.5-7.el8                                                       epel         
@@ -4323,8 +4323,8 @@ ghostscript.x86_64                                                9.27-12.el8   
 ghostscript-x11.x86_64                                            9.27-12.el8                                                       appstream    
 giflib.i686                                                       5.1.4-3.el8                                                       appstream    
 giflib.x86_64                                                     5.1.4-3.el8                                                       appstream    
-gifsicle.x86_64                                                   1.93-1.el8                                                        epel         
-gifview.x86_64                                                    1.93-1.el8                                                        epel         
+gifsicle.x86_64                                                   1.95-1.el8                                                        epel         
+gifview.x86_64                                                    1.95-1.el8                                                        epel         
 gimp.x86_64                                                       2:2.8.22-15.module_el8.0.0+36+bb6a76a2                            appstream    
 gimp-devel.x86_64                                                 2:2.8.22-15.module_el8.0.0+36+bb6a76a2                            appstream    
 gimp-devel-tools.x86_64                                           2:2.8.22-15.module_el8.0.0+36+bb6a76a2                            appstream    
@@ -9357,7 +9357,7 @@ mock-filesystem.noarch                                            5.5-1.el8     
 mock-lvm.noarch                                                   5.5-1.el8                                                         epel         
 mock-rpmautospec.noarch                                           5.5-1.el8                                                         epel         
 mock-scm.noarch                                                   5.5-1.el8                                                         epel         
-mod_auth_cas.x86_64                                               1.2-4.el8                                                         epel         
+mod_auth_cas.x86_64                                               1.2-8.el8                                                         epel         
 mod_auth_gssapi.x86_64                                            1.6.1-9.el8                                                       appstream    
 mod_auth_mellon.x86_64                                            0.14.0-12.el8.1                                                   appstream    
 mod_auth_mellon-diagnostics.x86_64                                0.14.0-12.el8.1                                                   appstream    
@@ -11172,7 +11172,7 @@ perl-Lua-API.x86_64                                               0.04-1.el8    
 perl-MCE.noarch                                                   1.862-1.el8                                                       epel         
 perl-MCE-Shared.noarch                                            1.862-1.el8                                                       epel         
 perl-MCE-tools.noarch                                             1.862-1.el8                                                       epel         
-perl-MIME-EncWords.noarch                                         1.014.3-15.el8                                                    epel         
+perl-MIME-EncWords.noarch                                         1.015.0-1.el8                                                     epel         
 perl-MIME-Lite.noarch                                             3.030-16.el8                                                      epel         
 perl-MIME-Lite-HTML.noarch                                        1.24-24.el8                                                       epel         
 perl-MIME-tools.noarch                                            5.509-9.el8                                                       epel         
@@ -12908,7 +12908,7 @@ python3-django3.noarch                                            3.2.20-1.el8  
 python3-dmlite.x86_64                                             1.15.2-15.el8                                                     epel         
 python3-dnf-plugin-flunk_dependent_remove.noarch                  1.0-5.el8                                                         epel         
 python3-dnf-plugin-modulesync.noarch                              4.0.21-25.el8                                                     appstream    
-python3-dnf-plugin-perfmetrics.noarch                             1.0-1.el8                                                         epel         
+python3-dnf-plugin-perfmetrics.noarch                             1.0-11.el8                                                        epel         
 python3-dnf-plugin-post-transaction-actions.noarch                4.0.21-25.el8                                                     baseos       
 python3-dnf-plugin-spacewalk.noarch                               2.8.5-11.module_el8.1.0+211+ad6c0bc7                              appstream    
 python3-dnf-plugin-versionlock.noarch                             4.0.21-25.el8                                                     baseos       
@@ -13280,6 +13280,7 @@ python3-mrack-openstack.noarch                                    1.18.0-1.el8  
 python3-mrack-podman.noarch                                       1.18.0-1.el8                                                      epel         
 python3-mrack-virt.noarch                                         1.18.0-1.el8                                                      epel         
 python3-mracklib.noarch                                           1.18.0-1.el8                                                      epel         
+python3-mrcfile.noarch                                            1.5.0-3.el8                                                       epel         
 python3-msal.noarch                                               1.23.0-5.el8                                                      epel         
 python3-msgpack.x86_64                                            0.6.2-1.el8                                                       epel         
 python3-msldap.noarch                                             0.2.13-1.el8                                                      epel         
