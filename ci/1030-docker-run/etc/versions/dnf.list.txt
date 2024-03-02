@@ -3194,7 +3194,7 @@ fedfind.noarch                                                    5.0.1-1.el8   
 fedmsg.noarch                                                     1.1.7-1.el8                                                       epel         
 fedmsg-base.noarch                                                1.1.7-1.el8                                                       epel         
 fedmsg-doc.noarch                                                 1.1.7-1.el8                                                       epel         
-fedora-license-data.noarch                                        1.40-1.el8                                                        epel         
+fedora-license-data.noarch                                        1.42-1.el8                                                        epel         
 fedora-messaging.noarch                                           3.0.0-1.el8                                                       epel         
 fedora-messaging-doc.noarch                                       3.0.0-1.el8                                                       epel         
 fedora-packager.noarch                                            0.6.0.6-1.el8                                                     epel         
