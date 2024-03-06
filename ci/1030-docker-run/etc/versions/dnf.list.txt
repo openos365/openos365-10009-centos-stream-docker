@@ -1964,7 +1964,7 @@ centos-release-hyperscale.noarch                                  4-4.el8s      
 centos-release-hyperscale-experimental.noarch                     4-4.el8s                                                          extras-common
 centos-release-hyperscale-hotfixes.noarch                         4-4.el8s                                                          extras-common
 centos-release-hyperscale-spin.noarch                             4-4.el8s                                                          extras-common
-centos-release-kmods.noarch                                       8-3.el8s                                                          extras-common
+centos-release-kmods.noarch                                       8-4.el8s                                                          extras-common
 centos-release-kmods-rebuild.noarch                               2-1.el8                                                           extras       
 centos-release-messaging.noarch                                   1-3.el8                                                           extras       
 centos-release-nfs-ganesha28.noarch                               1.0-3.el8                                                         extras       
