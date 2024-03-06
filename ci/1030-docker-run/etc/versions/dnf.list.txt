@@ -9153,9 +9153,9 @@ mate-menus-devel.x86_64                                           1.26.1-1.el8  
 mate-menus-libs.x86_64                                            1.26.1-1.el8                                                      epel         
 mate-menus-preferences-category-menu.x86_64                       1.26.1-1.el8                                                      epel         
 mate-notification-daemon.x86_64                                   1.26.1-1.el8                                                      epel         
-mate-panel.x86_64                                                 1.26.4-1.el8                                                      epel         
-mate-panel-devel.x86_64                                           1.26.4-1.el8                                                      epel         
-mate-panel-libs.x86_64                                            1.26.4-1.el8                                                      epel         
+mate-panel.x86_64                                                 1.26.4-2.el8                                                      epel         
+mate-panel-devel.x86_64                                           1.26.4-2.el8                                                      epel         
+mate-panel-libs.x86_64                                            1.26.4-2.el8                                                      epel         
 mate-polkit.x86_64                                                1.26.1-1.el8                                                      epel         
 mate-power-manager.x86_64                                         1.26.1-1.el8                                                      epel         
 mate-screensaver.x86_64                                           1.26.2-1.el8                                                      epel         
