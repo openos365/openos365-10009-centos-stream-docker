@@ -41,7 +41,7 @@ crypto-policies.noarch                        20230731-1.git3177e06.el8         
 crypto-policies-scripts.noarch                20230731-1.git3177e06.el8           @baseos   
 cryptsetup-libs.x86_64                        2.3.7-7.el8                         @baseos   
 ctags.x86_64                                  5.8-23.el8                          @baseos   
-cups-libs.x86_64                              1:2.2.6-56.el8                      @baseos   
+cups-libs.x86_64                              1:2.2.6-57.el8                      @baseos   
 curl.x86_64                                   7.61.1-34.el8                       @baseos   
 cyrus-sasl-lib.x86_64                         2.1.27-6.el8_5                      @System   
 dbus.x86_64                                   1:1.12.8-26.el8                     @baseos   
@@ -50,8 +50,8 @@ dbus-daemon.x86_64                            1:1.12.8-26.el8                   
 dbus-glib.x86_64                              0.110-2.el8                         @System   
 dbus-libs.x86_64                              1:1.12.8-26.el8                     @baseos   
 dbus-tools.x86_64                             1:1.12.8-26.el8                     @baseos   
-device-mapper.x86_64                          8:1.02.181-9.el8                    @baseos   
-device-mapper-libs.x86_64                     8:1.02.181-9.el8                    @baseos   
+device-mapper.x86_64                          8:1.02.181-14.el8                   @baseos   
+device-mapper-libs.x86_64                     8:1.02.181-14.el8                   @baseos   
 diffstat.x86_64                               1.61-7.el8                          @appstream
 diffutils.x86_64                              3.6-6.el8                           @baseos   
 distribution-gpg-keys.noarch                  1.100-1.el8                         @epel     
@@ -82,8 +82,8 @@ epel-next-release.noarch                      8-19.el8                          
 epel-release.noarch                           8-19.el8                            @epel     
 expat.x86_64                                  2.2.5-11.el8                        @baseos   
 expect.x86_64                                 5.45.4-5.el8                        @baseos   
-file.x86_64                                   5.33-25.el8                         @baseos   
-file-libs.x86_64                              5.33-25.el8                         @baseos   
+file.x86_64                                   5.33-26.el8                         @baseos   
+file-libs.x86_64                              5.33-26.el8                         @baseos   
 filesystem.x86_64                             3.8-6.el8                           @System   
 findutils.x86_64                              1:4.6.0-22.el8                      @baseos   
 flex.x86_64                                   2.6.1-9.el8                         @appstream
@@ -91,7 +91,7 @@ fontconfig.x86_64                             2.13.1-4.el8                      
 fontpackages-filesystem.noarch                1.44-22.el8                         @baseos   
 freetype.x86_64                               2.9.1-9.el8                         @baseos   
 fribidi.x86_64                                1.0.4-9.el8                         @appstream
-fuse-libs.x86_64                              2.9.7-17.el8                        @baseos   
+fuse-libs.x86_64                              2.9.7-19.el8                        @baseos   
 gawk.x86_64                                   4.2.1-4.el8                         @System   
 gc.x86_64                                     7.6.4-3.el8                         @appstream
 gcc.x86_64                                    8.5.0-21.el8                        @baseos   
@@ -152,7 +152,7 @@ jbigkit-libs.x86_64                           2.1-14.el8                        
 jna.x86_64                                    4.5.1-5.el8                         @appstream
 json-c.x86_64                                 0.13.1-3.el8                        @System   
 json-glib.x86_64                              1.4.4-1.el8                         @System   
-kernel-headers.x86_64                         4.18.0-540.el8                      @baseos   
+kernel-headers.x86_64                         4.18.0-544.el8                      @baseos   
 keyutils-libs.x86_64                          1.5.10-9.el8                        @System   
 kiwi-cli.noarch                               9.25.21-2.el8                       @epel     
 kiwi-systemdeps-core.x86_64                   9.25.21-2.el8                       @epel     
@@ -164,8 +164,8 @@ lcms2.x86_64                                  2.9-2.el8                         
 less.x86_64                                   530-1.el8                           @baseos   
 libICE.x86_64                                 1.0.9-15.el8                        @appstream
 libSM.x86_64                                  1.2.3-1.el8                         @appstream
-libX11.x86_64                                 1.6.8-7.el8                         @appstream
-libX11-common.noarch                          1.6.8-7.el8                         @appstream
+libX11.x86_64                                 1.6.8-8.el8                         @appstream
+libX11-common.noarch                          1.6.8-8.el8                         @appstream
 libXau.x86_64                                 1.0.9-3.el8                         @appstream
 libXaw.x86_64                                 1.0.13-10.el8                       @appstream
 libXcomposite.x86_64                          0.4.4-14.el8                        @appstream
@@ -190,7 +190,7 @@ libassuan.x86_64                              2.5.1-3.el8                       
 libatomic_ops.x86_64                          7.6.2-3.el8                         @appstream
 libattr.x86_64                                2.4.48-3.el8                        @System   
 libbabeltrace.x86_64                          1.5.4-4.el8                         @baseos   
-libblkid.x86_64                               2.32.1-43.el8                       @baseos   
+libblkid.x86_64                               2.32.1-46.el8                       @baseos   
 libburn.x86_64                                1.4.8-3.el8                         @appstream
 libcap.x86_64                                 2.48-5.el8                          @baseos   
 libcap-ng.x86_64                              0.7.11-1.el8                        @System   
@@ -204,7 +204,7 @@ libdb-utils.x86_64                            5.3.28-42.el8_4                   
 libdnf.x86_64                                 0.63.0-19.el8                       @baseos   
 libedit.x86_64                                3.1-23.20170329cvs.el8              @baseos   
 libevent.x86_64                               2.1.8-5.el8                         @baseos   
-libfdisk.x86_64                               2.32.1-43.el8                       @baseos   
+libfdisk.x86_64                               2.32.1-46.el8                       @baseos   
 libffi.x86_64                                 3.1-24.el8                          @baseos   
 libfontenc.x86_64                             1.1.3-8.el8                         @appstream
 libgcc.x86_64                                 8.5.0-21.el8                        @baseos   
@@ -223,7 +223,7 @@ libjpeg-turbo.x86_64                          1.5.3-12.el8                      
 libksba.x86_64                                1.3.5-9.el8_7                       @System   
 libmcpp.x86_64                                2.7.2-20.el8                        @appstream
 libmodulemd.x86_64                            2.13.0-1.el8                        @System   
-libmount.x86_64                               2.32.1-43.el8                       @baseos   
+libmount.x86_64                               2.32.1-46.el8                       @baseos   
 libmpc.x86_64                                 1.1.0-9.1.el8                       @appstream
 libnghttp2.x86_64                             1.33.0-5.el8                        @baseos   
 libnl3.x86_64                                 3.7.0-1.el8                         @System   
@@ -243,11 +243,11 @@ libselinux.x86_64                             2.9-8.el8                         
 libsemanage.x86_64                            2.9-9.el8_6                         @System   
 libsepol.x86_64                               2.9-3.el8                           @System   
 libsigsegv.x86_64                             2.11-5.el8                          @System   
-libsmartcols.x86_64                           2.32.1-43.el8                       @baseos   
+libsmartcols.x86_64                           2.32.1-46.el8                       @baseos   
 libsolv.x86_64                                0.7.20-6.el8                        @baseos   
 libss.x86_64                                  1.45.6-5.el8                        @baseos   
-libssh.x86_64                                 0.9.6-6.el8                         @baseos   
-libssh-config.noarch                          0.9.6-6.el8                         @baseos   
+libssh.x86_64                                 0.9.6-14.el8                        @baseos   
+libssh-config.noarch                          0.9.6-14.el8                        @baseos   
 libstdc++.x86_64                              8.5.0-21.el8                        @baseos   
 libstdc++-devel.x86_64                        8.5.0-21.el8                        @appstream
 libtasn1.x86_64                               4.13-4.el8_7                        @System   
@@ -260,7 +260,7 @@ libunistring.x86_64                           0.9.9-3.el8                       
 libusbx.x86_64                                1.0.23-4.el8                        @System   
 libuser.x86_64                                0.62-25.el8                         @baseos   
 libutempter.x86_64                            1.1.6-14.el8                        @System   
-libuuid.x86_64                                2.32.1-43.el8                       @baseos   
+libuuid.x86_64                                2.32.1-46.el8                       @baseos   
 libverto.x86_64                               0.3.2-2.el8                         @System   
 libwebp.x86_64                                1.0.0-9.el8                         @appstream
 libxcb.x86_64                                 1.13.1-1.el8                        @appstream
@@ -311,7 +311,7 @@ openssl-libs.x86_64                           1:1.1.1k-12.el8                   
 openssl-pkcs11.x86_64                         0.4.10-3.el8                        @baseos   
 p11-kit.x86_64                                0.23.22-2.el8                       @baseos   
 p11-kit-trust.x86_64                          0.23.22-2.el8                       @baseos   
-pam.x86_64                                    1.3.1-32.el8                        @baseos   
+pam.x86_64                                    1.3.1-33.el8                        @baseos   
 pango.x86_64                                  1.42.4-8.el8                        @appstream
 passwd.x86_64                                 0.80-4.el8                          @System   
 patch.x86_64                                  2.7.6-11.el8                        @baseos   
@@ -526,7 +526,7 @@ python3.11-libs.x86_64                        3.11.7-1.el8                      
 python3.11-pip-wheel.noarch                   22.3.1-5.el8                        @appstream
 python3.11-setuptools-wheel.noarch            65.5.1-2.el8                        @appstream
 python36.x86_64                               3.6.8-39.module_el8+762+77bd8591    @appstream
-qemu-img.x86_64                               15:6.2.0-47.module_el8+890+5e1fb8d4 @appstream
+qemu-img.x86_64                               15:6.2.0-48.module_el8+975+312600fa @appstream
 qt5-srpm-macros.noarch                        5.15.3-1.el8                        @appstream
 readline.x86_64                               7.0-10.el8                          @System   
 redhat-rpm-config.noarch                      131-1.el8                           @baseos   
@@ -551,9 +551,9 @@ squashfs-tools.x86_64                         4.3-21.el8                        
 strace.x86_64                                 5.18-2.el8                          @baseos   
 subscription-manager-rhsm-certificates.noarch 20220623-1.el8                      @appstream
 sudo.x86_64                                   1.9.5p2-1.el8                       @baseos   
-systemd.x86_64                                239-79.el8                          @baseos   
-systemd-libs.x86_64                           239-79.el8                          @baseos   
-systemd-pam.x86_64                            239-79.el8                          @baseos   
+systemd.x86_64                                239-81.el8                          @baseos   
+systemd-libs.x86_64                           239-81.el8                          @baseos   
+systemd-pam.x86_64                            239-81.el8                          @baseos   
 systemtap.x86_64                              4.9-3.el8                           @appstream
 systemtap-client.x86_64                       4.9-3.el8                           @appstream
 systemtap-devel.x86_64                        4.9-3.el8                           @appstream
@@ -582,7 +582,7 @@ urw-base35-p052-fonts.noarch                  20170801-10.el8                   
 urw-base35-standard-symbols-ps-fonts.noarch   20170801-10.el8                     @appstream
 urw-base35-z003-fonts.noarch                  20170801-10.el8                     @appstream
 usermode.x86_64                               1.113-2.el8                         @System   
-util-linux.x86_64                             2.32.1-43.el8                       @baseos   
+util-linux.x86_64                             2.32.1-46.el8                       @baseos   
 valgrind.x86_64                               1:3.22.0-2.el8                      @appstream
 valgrind-devel.x86_64                         1:3.22.0-2.el8                      @appstream
 vim-common.x86_64                             2:8.0.1763-19.el8.4                 @appstream
