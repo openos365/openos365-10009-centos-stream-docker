@@ -2039,10 +2039,10 @@ cheese.x86_64                                                     2:3.28.0-4.el8
 cheese-libs.i686                                                  2:3.28.0-4.el8                                                    appstream    
 cheese-libs.x86_64                                                2:3.28.0-4.el8                                                    appstream    
 chrome-gnome-shell.x86_64                                         42.1-1.el8                                                        appstream    
-chromedriver.x86_64                                               122.0.6261.69-1.el8                                               epel         
-chromium.x86_64                                                   122.0.6261.69-1.el8                                               epel         
-chromium-common.x86_64                                            122.0.6261.69-1.el8                                               epel         
-chromium-headless.x86_64                                          122.0.6261.69-1.el8                                               epel         
+chromedriver.x86_64                                               122.0.6261.94-1.el8                                               epel         
+chromium.x86_64                                                   122.0.6261.94-1.el8                                               epel         
+chromium-common.x86_64                                            122.0.6261.94-1.el8                                               epel         
+chromium-headless.x86_64                                          122.0.6261.94-1.el8                                               epel         
 chrony.x86_64                                                     4.5-1.el8                                                         baseos       
 chrpath.x86_64                                                    0.16-7.el8                                                        baseos       
 chunkfs.x86_64                                                    0.8-1.el8                                                         epel         
@@ -2494,6 +2494,9 @@ daemonize.x86_64                                                  1.7.8-1.el8   
 dahdi-tools.x86_64                                                2.11.1-16.el8                                                     epel         
 dahdi-tools-devel.x86_64                                          2.11.1-16.el8                                                     epel         
 dahdi-tools-libs.x86_64                                           2.11.1-16.el8                                                     epel         
+dante.x86_64                                                      1.4.3-2.el8                                                       epel         
+dante-devel.x86_64                                                1.4.3-2.el8                                                       epel         
+dante-server.x86_64                                               1.4.3-2.el8                                                       epel         
 daq.x86_64                                                        2.0.6-9.el8                                                       epel         
 daq-devel.x86_64                                                  2.0.6-9.el8                                                       epel         
 daq-modules.x86_64                                                2.0.6-9.el8                                                       epel         
@@ -6890,8 +6893,7 @@ leveldb.x86_64                                                    1.22-1.el8    
 leveldb-devel.x86_64                                              1.22-1.el8                                                        epel         
 levmar.x86_64                                                     2.6-3.el8                                                         epel         
 levmar-devel.x86_64                                               2.6-3.el8                                                         epel         
-lexertl14-devel.x86_64                                            0.1.0-21.20240216git7a365a2.el8                                   epel         
-lexertl14-examples.noarch                                         0.1.0-21.20240216git7a365a2.el8                                   epel         
+lexertl14-devel.x86_64                                            0.1.0-26.20240301git3097246.el8                                   epel         
 lftp.i686                                                         4.8.4-3.el8                                                       appstream    
 lftp.x86_64                                                       4.8.4-3.el8                                                       appstream    
 lftp-scripts.noarch                                               4.8.4-3.el8                                                       appstream    
@@ -11292,6 +11294,7 @@ perl-Net-GitHub.noarch                                            1.05-2.el8    
 perl-Net-HTTP.noarch                                              6.17-2.module_el8+645+9d809f8c                                    appstream    
 perl-Net-INET6Glue.noarch                                         0.603-13.el8                                                      epel         
 perl-Net-IP.noarch                                                1.26-20.el8                                                       epel         
+perl-Net-IP-Match-Regexp.noarch                                   1.01-36.el8                                                       epel         
 perl-Net-LibIDN.x86_64                                            0.12-35.el8                                                       epel         
 perl-Net-LibIDN2.x86_64                                           1.01-7.el8                                                        epel         
 perl-Net-NBName.noarch                                            0.26-41.el8                                                       epel         
@@ -14634,7 +14637,7 @@ resalloc.noarch                                                   5.3-1.el8     
 resalloc-agent-spawner.noarch                                     5.3-1.el8                                                         epel         
 resalloc-aws.noarch                                               1.8-1.el8                                                         epel         
 resalloc-helpers.noarch                                           5.3-1.el8                                                         epel         
-resalloc-openstack.noarch                                         9.7-1.el8                                                         epel         
+resalloc-openstack.noarch                                         9.8-1.el8                                                         epel         
 resalloc-selinux.noarch                                           5.3-1.el8                                                         epel         
 resalloc-server.noarch                                            5.3-1.el8                                                         epel         
 resalloc-webui.noarch                                             5.3-1.el8                                                         epel         
@@ -15505,7 +15508,7 @@ spamass-milter.x86_64                                             0.4.0-13.el8  
 spamass-milter-postfix.noarch                                     0.4.0-13.el8                                                      epel         
 spamassassin.x86_64                                               3.4.6-1.el8                                                       appstream    
 spamassassin-dqs.noarch                                           1.5.1-1.el8                                                       epel         
-spamassassin-iXhash2.noarch                                       2.05-16.el8                                                       epel         
+spamassassin-iXhash2.noarch                                       2.05-26.el8                                                       epel         
 spandsp.x86_64                                                    0.0.6-9.el8                                                       epel         
 spandsp-apidoc.x86_64                                             0.0.6-9.el8                                                       epel         
 spandsp-devel.x86_64                                              0.0.6-9.el8                                                       epel         
