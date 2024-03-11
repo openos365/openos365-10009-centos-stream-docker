@@ -9394,7 +9394,7 @@ mod_ssl.x86_64                                                    1:2.4.37-64.mo
 mod_xsendfile.x86_64                                              0.12-23.el8                                                       epel         
 module-build-service.noarch                                       3.9.2-3.el8                                                       epel         
 modulemd-tools.noarch                                             0.7-8.el8                                                         appstream    
-mold.x86_64                                                       2.4.0-2.el8                                                       epel         
+mold.x86_64                                                       2.4.1-1.el8                                                       epel         
 molequeue.x86_64                                                  0.9.0-15.el8                                                      epel         
 molequeue-devel.x86_64                                            0.9.0-15.el8                                                      epel         
 molequeue-doc.noarch                                              0.9.0-15.el8                                                      epel         
