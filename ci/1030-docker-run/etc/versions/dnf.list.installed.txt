@@ -253,7 +253,7 @@ libstdc++-devel.x86_64                        8.5.0-21.el8                      
 libtasn1.x86_64                               4.13-4.el8_7                        @System   
 libthai.x86_64                                0.1.27-2.el8                        @appstream
 libtiff.x86_64                                4.0.9-31.el8                        @appstream
-libtirpc.x86_64                               1.1.4-8.el8                         @System   
+libtirpc.x86_64                               1.1.4-10.el8                        @baseos   
 libtool.x86_64                                2.4.6-25.el8                        @appstream
 libtool-ltdl.x86_64                           2.4.6-25.el8                        @baseos   
 libunistring.x86_64                           0.9.9-3.el8                         @System   
