@@ -15348,7 +15348,7 @@ shorewall-lite.noarch                                             5.2.2-4.el8   
 shorewall6.noarch                                                 5.2.2-4.el8                                                       epel         
 shorewall6-lite.noarch                                            5.2.2-4.el8                                                       epel         
 siege.x86_64                                                      4.1.2-1.el8                                                       epel         
-signify.x86_64                                                    31-1.el8                                                          epel         
+signify.x86_64                                                    32-1.el8                                                          epel         
 signon.x86_64                                                     8.60-10.el8                                                       epel         
 signon-devel.x86_64                                               8.60-10.el8                                                       epel         
 signon-doc.noarch                                                 8.60-10.el8                                                       epel         
