@@ -2650,7 +2650,7 @@ distcc.x86_64                                                     3.3.3-3.el8   
 distcc-server.x86_64                                              3.3.3-3.el8                                                       epel         
 distgen.noarch                                                    1.17-1.el8                                                        epel         
 distribution-gpg-keys-copr.noarch                                 1.102-1.el8                                                       epel         
-distrobox.noarch                                                  1.6.0.1-1.el8                                                     epel         
+distrobox.noarch                                                  1.7.0.1-1.el8                                                     epel         
 djvulibre.x86_64                                                  3.5.28-3.el8                                                      epel         
 djvulibre-devel.x86_64                                            3.5.28-3.el8                                                      epel         
 djvulibre-libs.x86_64                                             3.5.28-3.el8                                                      epel         
@@ -5334,6 +5334,7 @@ hamlib-devel.x86_64                                               4.5.5-1.el8   
 hamlib-doc.noarch                                                 4.5.5-1.el8                                                       epel         
 happy.x86_64                                                      1.19.9-2.el8                                                      epel         
 haproxy.x86_64                                                    1.8.27-5.el8                                                      appstream    
+hardinfo2.x86_64                                                  2.0.15-2.el8                                                      epel         
 hardlink.x86_64                                                   1:1.3-6.el8                                                       baseos       
 harfbuzz.i686                                                     1.7.5-4.el8                                                       appstream    
 harfbuzz-devel.i686                                               1.7.5-4.el8                                                       appstream    
@@ -6635,7 +6636,7 @@ knot-utils.x86_64                                                 3.3.5-1.el8   
 knotes.x86_64                                                     21.08.3-1.el8                                                     epel         
 knotes-libs.x86_64                                                21.08.3-1.el8                                                     epel         
 koan.noarch                                                       2.0.7.1-6.module_el8.1.0+210+a3d63f21                             appstream    
-kobo-admin.noarch                                                 0.35.1-1.el8                                                      epel         
+kobo-admin.noarch                                                 0.36.0-1.el8                                                      epel         
 koji.noarch                                                       1.33.0-1.el8                                                      epel         
 koji-builder.noarch                                               1.33.0-1.el8                                                      epel         
 koji-builder-plugins.noarch                                       1.33.0-1.el8                                                      epel         
@@ -13162,13 +13163,13 @@ python3-kiwisolver.x86_64                                         1.1.0-3.el8   
 python3-klein.noarch                                              20.6.0-2.el8                                                      epel         
 python3-kmod.x86_64                                               0.9-20.el8                                                        baseos       
 python3-koan.noarch                                               2.0.7.1-6.module_el8.1.0+210+a3d63f21                             appstream    
-python3-kobo.noarch                                               0.35.1-1.el8                                                      epel         
-python3-kobo-admin.noarch                                         0.35.1-1.el8                                                      epel         
-python3-kobo-client.noarch                                        0.35.1-1.el8                                                      epel         
-python3-kobo-django.noarch                                        0.35.1-1.el8                                                      epel         
-python3-kobo-hub.noarch                                           0.35.1-1.el8                                                      epel         
-python3-kobo-rpmlib.noarch                                        0.35.1-1.el8                                                      epel         
-python3-kobo-worker.noarch                                        0.35.1-1.el8                                                      epel         
+python3-kobo.noarch                                               0.36.0-1.el8                                                      epel         
+python3-kobo-admin.noarch                                         0.36.0-1.el8                                                      epel         
+python3-kobo-client.noarch                                        0.36.0-1.el8                                                      epel         
+python3-kobo-django.noarch                                        0.36.0-1.el8                                                      epel         
+python3-kobo-hub.noarch                                           0.36.0-1.el8                                                      epel         
+python3-kobo-rpmlib.noarch                                        0.36.0-1.el8                                                      epel         
+python3-kobo-worker.noarch                                        0.36.0-1.el8                                                      epel         
 python3-koji.noarch                                               1.33.0-1.el8                                                      epel         
 python3-koji-cli-plugins.noarch                                   1.33.0-1.el8                                                      epel         
 python3-koji-hub.noarch                                           1.33.0-1.el8                                                      epel         
