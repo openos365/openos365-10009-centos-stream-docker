@@ -2003,8 +2003,8 @@ centos-release-samba419.noarch                                    1.0-2.el8s    
 centos-release-storage-common.noarch                              2-2.el8                                                           extras       
 centos-release-stream.x86_64                                      8.1-1.1911.0.7.el8                                                extras       
 centos-release-virt-common.noarch                                 1-2.el8                                                           extras       
-centpkg.noarch                                                    0.8.2-1.el8                                                       epel         
-centpkg-sig.noarch                                                0.8.2-1.el8                                                       epel         
+centpkg.noarch                                                    0.8.3-1.el8                                                       epel         
+centpkg-sig.noarch                                                0.8.3-1.el8                                                       epel         
 cepces.noarch                                                     0.3.5-7.el8                                                       epel         
 cepces-certmonger.noarch                                          0.3.5-7.el8                                                       epel         
 cepces-selinux.noarch                                             0.3.5-7.el8                                                       epel         
@@ -15894,7 +15894,7 @@ tcpdump.x86_64                                                    14:4.9.3-5.el8
 tcpflow.x86_64                                                    1.6.1-3.el8                                                       epel         
 tcpick.x86_64                                                     0.2.1-38.el8                                                      epel         
 tcping.x86_64                                                     1.3.5-19.el8                                                      epel         
-tcpreplay.x86_64                                                  4.4.4-1.el8                                                       epel         
+tcpreplay.x86_64                                                  4.4.4-5.el8                                                       epel         
 tcsh.x86_64                                                       6.20.00-15.el8                                                    appstream    
 tdb-tools.x86_64                                                  1.4.9-0.el8                                                       baseos       
 teamd.i686                                                        1.31-4.el8                                                        baseos       
