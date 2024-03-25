@@ -1512,8 +1512,8 @@ blacs-mpich-static.x86_64                                         2.0.2-31.el8  
 blacs-openmpi.x86_64                                              2.0.2-31.el8                                                      epel         
 blacs-openmpi-devel.x86_64                                        2.0.2-31.el8                                                      epel         
 blacs-openmpi-static.x86_64                                       2.0.2-31.el8                                                      epel         
-blake3.x86_64                                                     1.5.0-1.el8                                                       epel         
-blake3-devel.x86_64                                               1.5.0-1.el8                                                       epel         
+blake3.x86_64                                                     1.5.1-2.el8                                                       epel         
+blake3-devel.x86_64                                               1.5.1-2.el8                                                       epel         
 blas.i686                                                         3.8.0-8.el8                                                       appstream    
 blas.x86_64                                                       3.8.0-8.el8                                                       appstream    
 blas64.x86_64                                                     3.8.0-8.el8                                                       appstream    
@@ -3201,7 +3201,7 @@ fedfind.noarch                                                    5.0.1-1.el8   
 fedmsg.noarch                                                     1.1.7-1.el8                                                       epel         
 fedmsg-base.noarch                                                1.1.7-1.el8                                                       epel         
 fedmsg-doc.noarch                                                 1.1.7-1.el8                                                       epel         
-fedora-license-data.noarch                                        1.42-1.el8                                                        epel         
+fedora-license-data.noarch                                        1.43-1.el8                                                        epel         
 fedora-messaging.noarch                                           3.0.0-1.el8                                                       epel         
 fedora-messaging-doc.noarch                                       3.0.0-1.el8                                                       epel         
 fedora-packager.noarch                                            0.6.0.6-1.el8                                                     epel         
